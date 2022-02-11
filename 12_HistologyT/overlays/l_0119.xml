@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<line x1="124" y1="400.95" x2="87" y2="343" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="52" y1="294" x2="6" y2="352" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="90" y1="221" x2="64" y2="241" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="181" y1="277.95" x2="131" y2="333.95" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="495" y1="301" x2="528.95" y2="263" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="60" y1="378.95" x2="195" y2="378.95" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="59" y1="309" x2="199" y2="310" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="199" y1="310" x2="199" y2="379.95" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="58" y1="310" x2="57" y2="380.9" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="247" y1="350.95" x2="198" y2="350" thickness="1" color="FFFFFF" style="solid" />
+		<label x="422" y="135" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Vestibular duct]]></label>
+		<label x="508" y="195" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Cochlear duct]]></label>
+		<label x="443.95" y="302" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Basilar membrane]]></label>
+		<label x="187" y="265" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Tectoral membrane]]></label>
+		<label x="97" y="210" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Vestibular membrane]]></label>
+		<label x="30" y="273" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Spiral ligament]]></label>
+		<label x="119" y="403.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Hair cells]]></label>
+		<label x="250" y="335" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Organ of]]></label>
+		<label x="250" y="354" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Corti]]></label>
+	</set>	<main_image url="images/cochl01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

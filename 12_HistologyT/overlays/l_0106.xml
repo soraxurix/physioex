@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="169" y1="120" x2="246" y2="121" thickness="2" color="000000" style="solid" />
+		<line x1="185" y1="259" x2="246" y2="259" thickness="2" color="000000" style="solid" />
+		<line x1="288" y1="387.95" x2="255" y2="387.95" thickness="2" color="000000" style="solid" />
+		<line x1="456.95" y1="52" x2="419" y2="53" thickness="2" color="000000" style="solid" />
+		<line x1="470.95" y1="133" x2="417" y2="133" thickness="2" color="000000" style="solid" />
+		<line x1="452.95" y1="180" x2="420" y2="180" thickness="2" color="000000" style="solid" />
+		<bracket x="250" y="123" thickness="2" color="000000" width="160" rotation="90" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<bracket x="250" y="259" thickness="2" color="000000" width="103" rotation="-90" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<bracket x="250" y="390.95" thickness="2" color="000000" width="153" rotation="-90" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<bracket x="415" y="50" thickness="2" color="000000" width="41" rotation="-90" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<bracket x="415" y="121" thickness="2" color="000000" width="89" rotation="-90" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<bracket x="415" y="179" thickness="2" color="000000" width="16" rotation="-90" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<label x="108" y="110" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Mucosa]]></label>
+		<label x="103" y="248" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Submucosa]]></label>
+		<label x="292" y="376.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Muscularis externa]]></label>
+		<label x="466.95" y="42" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Gastric pits]]></label>
+		<label x="477.95" y="121" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Gastric glands]]></label>
+		<label x="456.95" y="171" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Muscularis mucosa]]></label>
+	</set>
+	<main_image url="images/Group7Slide4.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

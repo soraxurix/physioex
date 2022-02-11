@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="433.95" y="344" thickness="2" color="000000" width="17" rotation="-90" skew="0" height="17" offset="8" legs="2" style="solid" />
+		<line x1="353" y1="199" x2="322" y2="267" thickness="2" color="000000" style="solid" />
+		<line x1="488.95" y1="344" x2="436" y2="344" thickness="2" color="000000" style="solid" />
+		<line x1="223" y1="390.95" x2="302" y2="274" thickness="2" color="000000" style="solid" />
+		<line x1="224" y1="390.95" x2="344" y2="361" thickness="2" color="000000" style="solid" />
+		<label x="334" y="177" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Axon]]></label>
+		<label x="493.95" y="333" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nerve fiber]]></label>
+		<label x="112" y="384.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Node of Ranvier]]></label>
+	</set>
+	<main_image url="images/periphnerve,-10X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

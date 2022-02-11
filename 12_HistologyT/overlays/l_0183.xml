@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="223" y1="353.95" x2="150" y2="277" thickness="2" color="000000" style="solid" />
+		<line x1="225" y1="355.95" x2="139" y2="376.95" thickness="2" color="000000" style="solid" />
+		<label x="433.95" y="360.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Connective tissue]]></label>
+		<label x="72" y="249" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[L.S.]]></label>
+		<label x="77" y="347" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[C.S.]]></label>
+		<label x="231" y="344" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Smooth muscle]]></label>
+	</set>
+	<main_image url="images/smooth,-colon,-4X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="298" y1="27" x2="248" y2="46" thickness="2" color="000000" style="solid" />
+		<line x1="466.95" y1="128" x2="516.95" y2="67" thickness="2" color="000000" style="solid" />
+		<line x1="468" y1="130" x2="600" y2="138" thickness="2" color="000000" style="solid" />
+		<line x1="332" y1="218" x2="297" y2="135" thickness="2" color="000000" style="solid" />
+		<line x1="332" y1="220" x2="267" y2="138" thickness="2" color="000000" style="solid" />
+		<line x1="210" y1="235" x2="248" y2="190" thickness="2" color="000000" style="solid" />
+		<line x1="211" y1="236" x2="265" y2="198" thickness="2" color="000000" style="solid" />
+		<line x1="210" y1="238" x2="272" y2="213" thickness="2" color="000000" style="solid" />
+		<line x1="209" y1="297" x2="288" y2="329" thickness="2" color="000000" style="solid" />
+		<line x1="205" y1="301" x2="187" y2="361" thickness="2" color="000000" style="solid" />
+		<line x1="206" y1="297" x2="58" y2="319" thickness="2" color="000000" style="solid" />
+		<label x="307" y="16" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Serous demilune]]></label>
+		<label x="418" y="121" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Ducts]]></label>
+		<label x="342" y="216" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Mucous alveoli]]></label>
+		<label x="108" y="230" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Serous alveoli]]></label>
+		<label x="166" y="273" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Blood vessels]]></label>
+	</set>
+	<main_image url="images/salgl01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

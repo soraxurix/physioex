@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="340" y1="143" x2="406" y2="175" thickness="2" color="000000" style="solid" />
+		<line x1="340" y1="144" x2="280" y2="192" thickness="2" color="000000" style="solid" />
+		<line x1="481.95" y1="336.95" x2="359" y2="251" thickness="2" color="000000" style="solid" />
+		<line x1="359" y1="333" x2="325" y2="261" thickness="2" color="000000" style="solid" />
+		<line x1="210" y1="319" x2="310" y2="256" thickness="2" color="000000" style="solid" />
+		<label x="304" y="115" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Processes]]></label>
+		<label x="439.95" y="342" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nerve cell body]]></label>
+		<label x="333" y="338" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus]]></label>
+		<label x="137" y="312" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleolus]]></label>
+	</set>
+	<main_image url="images/neuron,-WM,-10X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

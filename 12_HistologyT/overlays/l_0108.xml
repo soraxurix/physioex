@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="121" y1="92" x2="175" y2="49" thickness="2" color="000000" style="solid" />
+		<line x1="182" y1="273" x2="200" y2="140" thickness="2" color="000000" style="solid" />
+		<line x1="183" y1="275" x2="272" y2="171" thickness="2" color="000000" style="solid" />
+		<line x1="485.95" y1="173" x2="441" y2="61" thickness="2" color="000000" style="solid" />
+		<line x1="487.95" y1="174" x2="543.95" y2="67" thickness="2" color="000000" style="solid" />
+		<line x1="428.95" y1="398.95" x2="421" y2="294" thickness="2" color="000000" style="solid" />
+		<line x1="433" y1="400.95" x2="504" y2="293" thickness="2" color="000000" style="solid" />
+		<label x="62" y="94" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Mucus in lumen]]></label>
+		<label x="139" y="281" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Goblet cells]]></label>
+		<label x="423.95" y="183" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Microvilli (brush border)]]></label>
+		<label x="348" y="404.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Simple columnar epithelium]]></label>
+	</set>
+	<main_image url="images/Group7Slide6.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

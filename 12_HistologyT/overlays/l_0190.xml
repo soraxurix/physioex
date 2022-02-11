@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="334" y="148" thickness="2" color="000000" width="133" rotation="-90" skew="0" height="20" offset="12" legs="2" style="solid" />
+		<bracket x="289" y="232" thickness="2" color="000000" width="35" rotation="90" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<line x1="306" y1="153" x2="331" y2="153" thickness="2" color="000000" style="solid" />
+		<line x1="415" y1="239" x2="292" y2="235" thickness="2" color="000000" style="solid" />
+		<line x1="331" y1="312" x2="430" y2="331" thickness="2" color="000000" style="solid" />
+		<line x1="266" y1="313" x2="174" y2="323" thickness="2" color="000000" style="solid" />
+		<label x="80" y="143" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Ciliated pseudostratified epithelium]]></label>
+		<label x="423" y="230" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Elastic connective tissue]]></label>
+		<label x="275" y="301" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Glands]]></label>
+	</set>
+	<main_image url="images/trachea,-epithelium,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

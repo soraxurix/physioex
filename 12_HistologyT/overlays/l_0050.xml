@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="353" y1="174" x2="367" y2="45" thickness="2" color="000000" style="solid" />
+		<line x1="353" y1="177" x2="266" y2="79" thickness="2" color="000000" style="solid" />
+		<line x1="351" y1="174" x2="299" y2="25" thickness="2" color="000000" style="solid" />
+		<label x="317" y="184" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Blood vessels]]></label>
+	</set>
+	<main_image url="images/reti01b.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

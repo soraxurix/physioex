@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="412" y1="201" x2="347" y2="246" thickness="2" color="000000" style="solid" />
+		<line x1="414" y1="198" x2="366" y2="134" thickness="2" color="000000" style="solid" />
+		<label x="428.95" y="193" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Dividing lymphocytes]]></label>
+		<circle x="305" y="42" thickness="2" color="000000" radius="63" style="undefined" />
+		<circle x="283" y="188" thickness="2" color="000000" radius="63" style="undefined" />
+	</set>
+	<main_image url="images/thymu04.1000.1000.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

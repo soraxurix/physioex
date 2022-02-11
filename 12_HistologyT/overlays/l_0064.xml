@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="212" y1="252" x2="247" y2="322" thickness="2" color="000000" style="solid" />
+		<line x1="292" y1="296" x2="308" y2="363" thickness="2" color="000000" style="solid" />
+		<line x1="397" y1="359" x2="325" y2="370" thickness="2" color="000000" style="solid" />
+		<label x="182" y="231" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Tail]]></label>
+		<label x="273" y="273" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[DNA]]></label>
+		<label x="403" y="348" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Acrosome]]></label>
+	</set>
+	<main_image url="images/sperm03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

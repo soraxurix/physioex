@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="257" y1="262" x2="291" y2="285" thickness="2" color="000000" style="solid" />
+		<line x1="350" y1="156" x2="331" y2="170" thickness="2" color="000000" style="solid" />
+		<line x1="170" y1="98" x2="24" y2="71" thickness="2" color="000000" style="solid" />
+		<line x1="168" y1="101" x2="27" y2="96" thickness="2" color="000000" style="solid" />
+		<circle x="351" y="258" thickness="2" color="000000" radius="77" style="undefined" />
+		<circle x="311" y="165" thickness="2" color="000000" radius="26" style="undefined" />
+		<label x="176" y="244" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Oxyphil cell]]></label>
+		<label x="354" y="135" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Chief cell]]></label>
+		<label x="181" y="89" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Blood cells]]></label>
+	</set>
+	<main_image url="images/parat03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

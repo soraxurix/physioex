@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<label x="268" y="98" color="000000" size="14" bgcolor="FFFFFF" bgalpha="78"><![CDATA[Blood in artery]]></label>
+		<label x="405.95" y="330" color="000000" size="14" bgcolor="FFFFFF" bgalpha="78"><![CDATA[Blood in vein]]></label>
+	</set>
+	<main_image url="images/arter01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

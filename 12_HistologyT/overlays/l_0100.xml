@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<bracket x="94" y="53" thickness="2" color="000000" width="37" rotation="-90" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<line x1="151" y1="54" x2="97" y2="54" thickness="2" color="000000" style="solid" />
+		<line x1="320" y1="240" x2="234" y2="137" thickness="2" color="000000" style="solid" />
+		<line x1="320" y1="240" x2="297" y2="129" thickness="2" color="000000" style="solid" />
+		<line x1="478.95" y1="93" x2="433" y2="153" thickness="2" color="000000" style="solid" />
+		<line x1="479.95" y1="94" x2="572.95" y2="177" thickness="2" color="000000" style="solid" />
+		<line x1="525.95" y1="461.95" x2="536.95" y2="483.95" thickness="2" color="000000" style="solid" />
+		<label x="161" y="42" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cilia]]></label>
+		<label x="226" y="248" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Pseudostratified ciliated cells]]></label>
+		<label x="432" y="68" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Goblet cells]]></label>
+		<label x="364" y="431.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lamina propria]]></label>
+	</set>	<main_image url="images/Group6Slide2.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

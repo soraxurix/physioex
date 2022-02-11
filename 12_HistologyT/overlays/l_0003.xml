@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="408" y1="94" x2="351" y2="99" thickness="2" color="000000" style="solid" />
+		<line x1="278" y1="150" x2="290" y2="100" thickness="2" color="000000" style="solid" />
+		<line x1="233" y1="233" x2="165" y2="252" thickness="2" color="000000" style="solid" />
+		<line x1="233" y1="231" x2="213" y2="174" thickness="2" color="000000" style="solid" />
+		<line x1="186" y1="55" x2="168" y2="115" thickness="2" color="000000" style="solid" />
+		<label x="412" y="85" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus]]></label>
+		<label x="243" y="150" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cytoplasm]]></label>
+		<label x="234" y="221" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Dirt Specks]]></label>
+		<label x="229" y="282" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Oil Droplet in Adipocyte]]></label>
+		<label x="188" y="36" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Interstitial Area]]></label>
+	</set>
+	<main_image url="images/adipo03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

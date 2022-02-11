@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<line x1="412" y1="173" x2="335" y2="221" thickness="2" color="000000" style="solid" />
+		<line x1="413" y1="175" x2="348" y2="227" thickness="2" color="000000" style="solid" />
+		<line x1="421" y1="276" x2="325" y2="259" thickness="2" color="000000" style="solid" />
+		<label x="417.95" y="158" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Basophilic granules]]></label>
+		<label x="426.95" y="265" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus]]></label>
+	</set>	<main_image url="images/blood,-baso,--100X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

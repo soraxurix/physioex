@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="215" y="273" thickness="2" color="000000" width="71" rotation="74" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<line x1="344" y1="162" x2="306" y2="219" thickness="2" color="000000" style="solid" />
+		<line x1="194" y1="290" x2="216" y2="281" thickness="2" color="000000" style="solid" />
+		<line x1="302" y1="395.95" x2="422" y2="249" thickness="2" color="000000" style="solid" />
+		<line x1="302" y1="396.95" x2="429" y2="344" thickness="2" color="000000" style="solid" />
+		<line x1="499.95" y1="154" x2="498.95" y2="204" thickness="2" color="000000" style="solid" />
+		<line x1="218" y1="177" x2="267" y2="244" thickness="2" color="000000" style="solid" />
+		<label x="160" y="155" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus]]></label>
+		<label x="319" y="138" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cytoplasm]]></label>
+		<label x="110" y="279" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Macrophage]]></label>
+		<label x="216" y="399.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Elastc fibers]]></label>
+		<label x="454.95" y="128" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Collagen fibers]]></label>
+	</set>
+	<main_image url="images/areolar-spread-2,-fibers,-m.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

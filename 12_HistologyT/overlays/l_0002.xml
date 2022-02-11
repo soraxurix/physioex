@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<line x1="204" y1="242" x2="203" y2="276" thickness="2" color="000000" style="solid" />
+		<line x1="203" y1="241" x2="114" y2="232" thickness="2" color="000000" style="solid" />
+		<line x1="204" y1="243" x2="104" y2="292" thickness="2" color="000000" style="solid" />
+		<line x1="149" y1="137" x2="331" y2="79" thickness="2" color="000000" style="solid" />
+		<line x1="151" y1="140" x2="386" y2="108" thickness="2" color="000000" style="solid" />
+		<label x="211" y="229" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nuclei]]></label>
+		<label x="78" y="128" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Blood Cell]]></label>
+		<label x="181" y="384.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Adipocyte]]></label>
+	</set>	<main_image url="images/adipo02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

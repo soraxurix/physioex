@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="264" y1="108" x2="120" y2="208" thickness="2" color="000000" style="solid" />
+		<line x1="267" y1="108" x2="239" y2="205" thickness="2" color="000000" style="solid" />
+		<line x1="119" y1="352" x2="129" y2="317" thickness="2" color="000000" style="solid" />
+		<line x1="292" y1="278" x2="228" y2="371.95" thickness="2" color="000000" style="solid" />
+		<line x1="372" y1="328" x2="315" y2="423" thickness="2" color="000000" style="solid" />
+		<label x="196" y="82" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Colloid in thyroid follicles]]></label>
+		<label x="64" y="358.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Parafollicular cells]]></label>
+		<label x="259" y="253" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Follicle cells]]></label>
+		<label x="321" y="305" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Colloid in follicle]]></label>
+	</set>
+	<main_image url="images/B310154.36.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

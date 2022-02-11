@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+	</set>
+	<main_image url="images/B310379..40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

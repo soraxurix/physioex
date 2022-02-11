@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="219" y1="35" x2="168" y2="96" thickness="2" color="000000" style="solid" />
+		<line x1="221" y1="33" x2="255" y2="91" thickness="2" color="000000" style="solid" />
+		<line x1="233" y1="341" x2="301" y2="245" thickness="2" color="000000" style="solid" />
+		<line x1="231" y1="341" x2="151" y2="232" thickness="2" color="000000" style="solid" />
+		<line x1="308" y1="164" x2="227" y2="165" thickness="2" color="000000" style="solid" />
+		<line x1="402" y1="223" x2="362" y2="290" thickness="2" color="000000" style="solid" />
+		<label x="169" y="5" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Two daughter cells]]></label>
+		<label x="206" y="350" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Nucleus]]></label>
+		<label x="320" y="155" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Cell membranes]]></label>
+		<label x="404" y="199" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Cytoplasm]]></label>
+	</set>
+	<main_image url="images/B310303.399.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

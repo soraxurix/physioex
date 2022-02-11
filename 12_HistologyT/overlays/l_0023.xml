@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="362" y1="113" x2="300" y2="169" thickness="2" color="000000" style="solid" />
+		<line x1="338" y1="116" x2="275" y2="146" thickness="2" color="000000" style="solid" />
+		<line x1="363" y1="115" x2="306" y2="217" thickness="2" color="000000" style="solid" />
+		<line x1="449" y1="240" x2="274" y2="264" thickness="2" color="000000" style="solid" />
+		<line x1="448" y1="237" x2="348" y2="202" thickness="2" color="000000" style="solid" />
+		<line x1="362" y1="112" x2="308" y2="144" thickness="2" color="000000" style="solid" />
+		<line x1="450" y1="241" x2="307" y2="304" thickness="2" color="000000" style="solid" />
+		<label x="366.95" y="92" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Collagen fibers]]></label>
+		<label x="459.95" y="228" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Chondrocyte within lacunae]]></label>
+	</set>
+	<main_image url="images/fibro01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

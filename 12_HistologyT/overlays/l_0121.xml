@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="180" y="128" thickness="1" color="FFFFFF" width="47" rotation="0" skew="0" height="24" offset="12" legs="2" style="solid" />
+		<bracket x="182" y="185" thickness="1" color="FFFFFF" width="107" rotation="0" skew="0" height="24" offset="12" legs="2" style="solid" />
+		<line x1="222" y1="435.95" x2="204" y2="373" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="221" y1="433.95" x2="119" y2="390.95" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="221" y1="436.95" x2="140" y2="465.95" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="224" y1="57" x2="176" y2="129" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="238" y1="143" x2="178" y2="185" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="242" y1="272" x2="218" y2="231" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="416" y1="188" x2="357" y2="163" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="414" y1="188" x2="353" y2="185" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="413" y1="190" x2="343" y2="206" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="127" y1="308" x2="182" y2="232" thickness="1" color="FFFFFF" style="solid" />
+		<label x="178" y="37" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lamina propria]]></label>
+		<label x="239" y="129" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Villus]]></label>
+		<label x="239" y="274" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Simple columnar epithelium]]></label>
+		<label x="415.95" y="178" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Goblet cells]]></label>
+		<label x="225" y="426.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Intestinal glands]]></label>
+		<label x="46" y="309" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Areolar connective tissue]]></label>
+	</set>
+	<main_image url="images/duode02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="127" y1="329" x2="164" y2="236" thickness="2" color="000000" style="solid" />
+		<line x1="128" y1="329" x2="169" y2="268" thickness="2" color="000000" style="solid" />
+		<label x="85" y="332" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Dividing cells]]></label>
+	</set>
+	<main_image url="images/white01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

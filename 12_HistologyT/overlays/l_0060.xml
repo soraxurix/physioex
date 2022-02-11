@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="306" y1="172" x2="263" y2="244" thickness="2" color="000000" style="solid" />
+		<line x1="305" y1="171" x2="178" y2="206" thickness="2" color="000000" style="solid" />
+		<line x1="304" y1="173" x2="136" y2="325" thickness="2" color="000000" style="solid" />
+		<label x="206" y="143" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Individual smooth muscle cells]]></label>
+	</set>
+	<main_image url="images/smots02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="220" y1="216" x2="161" y2="258" thickness="2" color="000000" style="solid" />
+		<line x1="382" y1="79" x2="476.95" y2="118" thickness="2" color="000000" style="solid" />
+		<line x1="381" y1="80" x2="327" y2="120" thickness="2" color="000000" style="solid" />
+		<line x1="407" y1="368.95" x2="452.05" y2="327" thickness="2" color="000000" style="solid" />
+		<line x1="405" y1="368.95" x2="356" y2="325" thickness="2" color="000000" style="solid" />
+		<line x1="429.95" y1="202" x2="355" y2="285" thickness="2" color="000000" style="solid" />
+		<line x1="431" y1="200" x2="311" y2="265" thickness="2" color="000000" style="solid" />
+		<label x="226" y="197" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Goblet cell]]></label>
+		<label x="338" y="56" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Brush border]]></label>
+		<label x="384" y="374.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nuclei]]></label>
+		<label x="365" y="173" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Columnar absorptive cell]]></label>
+	</set>
+	<main_image url="images/jejunum,-EPON,-100X,-termin.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

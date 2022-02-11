@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="367" y1="245" x2="282" y2="250" thickness="2" color="000000" style="solid" />
+		<line x1="345" y1="355" x2="212" y2="349" thickness="2" color="000000" style="solid" />
+		<line x1="345" y1="356" x2="237" y2="379" thickness="2" color="000000" style="solid" />
+		<label x="375" y="235" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Pyramidal cell]]></label>
+		<label x="354" y="346" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Neuroglia]]></label>
+	</set>
+	<main_image url="images/cereb01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

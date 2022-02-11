@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="207" y1="135" x2="307" y2="154" thickness="2" color="000000" style="solid" />
+		<line x1="207" y1="137" x2="250" y2="184" thickness="2" color="000000" style="solid" />
+		<label x="116" y="111" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Round surface cells]]></label>
+	</set>
+	<main_image url="images/ureter,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="394.95" y="139" thickness="2" color="000000" width="400" rotation="0" skew="0" height="30" offset="15" legs="2" style="solid" />
+		<line x1="115" y1="176" x2="47" y2="214" thickness="2" color="000000" style="solid" />
+		<line x1="490.95" y1="51" x2="561.95" y2="29" thickness="2" color="000000" style="solid" />
+		<line x1="301" y1="291" x2="378" y2="232" thickness="2" color="000000" style="solid" />
+		<line x1="302" y1="295" x2="525.95" y2="241" thickness="2" color="000000" style="solid" />
+		<line x1="303" y1="299" x2="488" y2="349" thickness="2" color="000000" style="solid" />
+		<line x1="303" y1="304" x2="384" y2="351" thickness="2" color="000000" style="solid" />
+		<label x="75" y="152" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Myometrium]]></label>
+		<label x="417" y="42" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+		<label x="359" y="114" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Endometrium]]></label>
+		<label x="249" y="287" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Glands]]></label>
+	</set>
+	<main_image url="images/Group4Slide4.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

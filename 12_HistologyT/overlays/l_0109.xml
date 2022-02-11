@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="235" y="240" thickness="2" color="000000" width="100" rotation="72" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<bracket x="70" y="399.95" thickness="2" color="000000" width="100" rotation="61" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<line x1="520.95" y1="99" x2="601.95" y2="245" thickness="2" color="000000" style="solid" />
+		<line x1="69" y1="394.95" x2="232" y2="241" thickness="2" color="000000" style="solid" />
+		<line x1="142" y1="277" x2="150" y2="318" thickness="2" color="000000" style="solid" />
+		<label x="230" y="80" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Villus]]></label>
+		<label x="405" y="102" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Villus]]></label>
+		<label x="498.95" y="76" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Villus]]></label>
+		<label x="253" y="455.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Brunner's glands]]></label>
+		<label x="119" y="253" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Crypts]]></label>
+	</set>
+	<main_image url="images/Group7Slide7.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

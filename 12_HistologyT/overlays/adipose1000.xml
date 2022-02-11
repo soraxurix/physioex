@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="350.95" y1="165" x2="383.95" y2="132" thickness="2" color="000000" style="solid" />
+		<line x1="438.95" y1="182" x2="450.95" y2="122" thickness="2" color="000000" style="solid" />
+		<label x="277.95" y="156" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cytoplasm]]></label>
+		<label x="433.9" y="182" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Adipocyte Nucleus]]></label>
+	</set>
+	<main_image url="images/adipo04.1000.1000.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

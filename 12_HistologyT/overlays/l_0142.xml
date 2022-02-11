@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="377" y1="150" x2="330" y2="182" thickness="2" color="000000" style="solid" />
+		<line x1="363" y1="240" x2="293" y2="219" thickness="2" color="000000" style="solid" />
+		<label x="383" y="132" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cytoplasm]]></label>
+		<label x="370" y="228" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus]]></label>
+	</set>
+	<main_image url="images/blood,-lymphos,-100X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

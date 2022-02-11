@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="101" y1="131" x2="103" y2="164" thickness="2" color="000000" style="solid" />
+		<line x1="204" y1="252" x2="361" y2="168" thickness="2" color="000000" style="solid" />
+		<line x1="205" y1="256" x2="293" y2="254" thickness="2" color="000000" style="solid" />
+		<line x1="205" y1="259" x2="366" y2="294" thickness="2" color="000000" style="solid" />
+		<label x="74" y="109" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epidermis]]></label>
+		<label x="35" y="247" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Areolar connective tissue]]></label>
+		<label x="342" y="206" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Capillary]]></label>
+		<bracket x="116" y="167" thickness="2" color="000000" width="205" rotation="-1" skew="0" height="14" offset="6" legs="2" style="solid" />
+	</set>
+	<main_image url="images/skin,-capillaries,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

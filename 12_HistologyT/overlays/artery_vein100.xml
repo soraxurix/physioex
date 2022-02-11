@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="189" y1="358.95" x2="131" y2="319" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="380" y1="259" x2="346" y2="179" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="294" y1="175" x2="331" y2="115" thickness="1" color="FFFFFF" style="solid" />
+		<label x="391.95" y="7" color="000000" size="14" bgcolor="FFFFFF" bgalpha="80"><![CDATA[Blood in artery]]></label>
+		<label x="91" y="166" color="000000" size="14" bgcolor="FFFFFF" bgalpha="80"><![CDATA[Elastic lamallae in tunica media]]></label>
+		<label x="383.9" y="246" color="000000" size="14" bgcolor="FFFFFF" bgalpha="80"><![CDATA[Tunica externa]]></label>
+		<label x="193" y="351" color="000000" size="14" bgcolor="FFFFFF" bgalpha="80"><![CDATA[Tunica intima (endothelium)]]></label>
+		<label x="450.95" y="360" color="000000" size="14" bgcolor="FFFFFF" bgalpha="80"><![CDATA[Blood in vein]]></label>
+	</set>
+	<main_image url="images/arter02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

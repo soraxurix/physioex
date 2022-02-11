@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="322" y1="226" x2="401" y2="303" thickness="2" color="000000" style="solid" />
+		<label x="88" y="31" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Adipose cells]]></label>
+		<label x="297" y="304" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Duct]]></label>
+		<label x="276" y="201" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Blood vessel]]></label>
+	</set>
+	<main_image url="images/strcu01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

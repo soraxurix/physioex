@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="540.95" y="198" thickness="2" color="000000" width="30" rotation="-90" skew="0" height="12" offset="0" legs="2" style="solid" />
+		<line x1="246" y1="317" x2="210" y2="229" thickness="2" color="000000" style="solid" />
+		<line x1="374" y1="349" x2="353" y2="286" thickness="2" color="000000" style="solid" />
+		<line x1="467" y1="193" x2="538" y2="195" thickness="2" color="000000" style="solid" />
+		<label x="211" y="319" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Muscularis]]></label>
+		<label x="346" y="350" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lamina propria]]></label>
+		<label x="318" y="184" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Transitional epithelium]]></label>
+	</set>
+	<main_image url="images/B310146.8.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="196" y1="142" x2="180" y2="209" thickness="2" color="000000" style="solid" />
+		<line x1="196" y1="143" x2="28" y2="216" thickness="2" color="000000" style="solid" />
+		<line x1="477.95" y1="156" x2="572.95" y2="171" thickness="2" color="000000" style="solid" />
+		<line x1="176" y1="317" x2="117" y2="393.95" thickness="2" color="000000" style="solid" />
+		<line x1="262" y1="391.95" x2="167" y2="347" thickness="2" color="000000" style="solid" />
+		<line x1="262" y1="393.95" x2="118" y2="467.95" thickness="2" color="000000" style="solid" />
+		<label x="436" y="139" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Duct]]></label>
+		<label x="130" y="117" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Serous demilunes]]></label>
+		<label x="148" y="293" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="273" y="378.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Mucus secretory unit]]></label>
+	</set>
+	<main_image url="images/Group7Slide1.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

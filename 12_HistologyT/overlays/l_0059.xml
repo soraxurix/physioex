@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<label x="323" y="149" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Individual smooth muscle cells]]></label>
+	</set>
+	<main_image url="images/smots01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

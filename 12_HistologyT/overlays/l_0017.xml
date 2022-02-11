@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="223" y1="35" x2="162" y2="58" thickness="2" color="000000" style="solid" />
+		<line x1="484.95" y1="76" x2="445" y2="172" thickness="2" color="000000" style="solid" />
+		<line x1="487.95" y1="78" x2="487.95" y2="142" thickness="2" color="000000" style="solid" />
+		<line x1="488.95" y1="77" x2="527.95" y2="123" thickness="2" color="000000" style="solid" />
+		<label x="231" y="22" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Tectorial membrane]]></label>
+		<label x="461.95" y="53" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Hair cells]]></label>
+	</set>
+	<main_image url="images/cochl03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

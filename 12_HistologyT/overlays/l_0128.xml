@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<bracket x="212" y="100" thickness="2" color="000000" width="44" rotation="90" skew="0" height="20" offset="20" legs="2" style="solid" />
+		<bracket x="213" y="169" thickness="2" color="000000" width="82" rotation="-90" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<bracket x="213" y="291" thickness="2" color="000000" width="134" rotation="-90" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<line x1="447" y1="401.9" x2="449.05" y2="365.9" thickness="2" color="000000" style="solid" />
+		<line x1="407" y1="310" x2="416.05" y2="275" thickness="2" color="000000" style="solid" />
+		<line x1="346" y1="308" x2="331" y2="274" thickness="2" color="000000" style="solid" />
+		<line x1="372" y1="305" x2="372" y2="272" thickness="2" color="000000" style="solid" />
+		<line x1="142" y1="179" x2="209" y2="98" thickness="2" color="000000" style="solid" />
+		<line x1="143" y1="181" x2="209" y2="179" thickness="2" color="000000" style="solid" />
+		<line x1="143" y1="182" x2="211" y2="289" thickness="2" color="000000" style="solid" />
+		<label x="400" y="403.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Nucleus]]></label>
+		<label x="345" y="315" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Striations]]></label>
+		<label x="50" y="170" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Muscle fibers]]></label>
+	</set>	<main_image url="images/Group2Slide1.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

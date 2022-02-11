@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="255" y1="296" x2="328" y2="326" thickness="2" color="CC6699" style="solid" />
+		<line x1="375" y1="220" x2="321" y2="167" thickness="2" color="CC6699" style="solid" />
+		<line x1="373" y1="224" x2="294" y2="210" thickness="2" color="CC6699" style="solid" />
+		<line x1="344" y1="93" x2="416.95" y2="55" thickness="2" color="CC6699" style="solid" />
+		<line x1="420.95" y1="387.95" x2="444.95" y2="339" thickness="2" color="CC6699" style="solid" />
+		<label x="259" y="82" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Macrophage]]></label>
+		<label x="377.95" y="210" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Reticular fibres]]></label>
+		<label x="192" y="284" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Mast cell]]></label>
+		<label x="352" y="377.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Fibroblast]]></label>
+	</set>
+	<main_image url="images/areol03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

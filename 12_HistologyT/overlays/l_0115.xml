@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<bracket x="156" y="248" thickness="2" color="000000" width="113" rotation="90" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<line x1="496.95" y1="106" x2="424" y2="194" thickness="2" color="000000" style="solid" />
+		<line x1="448" y1="169" x2="453" y2="216" thickness="2" color="000000" style="solid" />
+		<line x1="447" y1="167" x2="420.05" y2="154" thickness="2" color="000000" style="solid" />
+		<line x1="412" y1="282" x2="502.95" y2="363" thickness="2" color="000000" style="solid" />
+		<line x1="411" y1="281" x2="455" y2="373.95" thickness="2" color="000000" style="solid" />
+		<line x1="409" y1="281" x2="352" y2="342" thickness="2" color="000000" style="solid" />
+		<line x1="410" y1="282" x2="387" y2="378.95" thickness="2" color="000000" style="solid" />
+		<line x1="221" y1="355" x2="118" y2="364" thickness="2" color="000000" style="solid" />
+		<line x1="259" y1="246" x2="160" y2="247" thickness="2" color="000000" style="solid" />
+		<label x="466.95" y="80" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Glomerulus]]></label>
+		<label x="396" y="258" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[PCT]]></label>
+		<label x="230" y="343" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[PCT]]></label>
+		<label x="266" y="235" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Renal corpuscle]]></label>
+	</set>	<main_image url="images/Group8Slide1.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

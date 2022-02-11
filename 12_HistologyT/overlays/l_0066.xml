@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="385" y1="189" x2="324" y2="233" thickness="2" color="000000" style="solid" />
+		<label x="154" y="323" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Gray matter]]></label>
+		<label x="392" y="167" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Motor cell body]]></label>
+	</set>
+	<main_image url="images/scord02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

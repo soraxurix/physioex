@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="366" y1="130" x2="142" y2="199" thickness="2" color="000000" style="solid" />
+		<line x1="278" y1="74" x2="160" y2="132" thickness="2" color="000000" style="solid" />
+		<line x1="405" y1="218" x2="279" y2="215" thickness="2" color="000000" style="solid" />
+		<line x1="307" y1="332" x2="244" y2="328" thickness="2" color="000000" style="solid" />
+		<line x1="279" y1="74" x2="200" y2="55" thickness="2" color="000000" style="solid" />
+		<label x="375" y="118" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Dendrite]]></label>
+		<label x="284" y="61" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Neuroglia]]></label>
+		<label x="412.95" y="207" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Pyramidal cell nucleus]]></label>
+		<label x="316" y="323" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Axon]]></label>
+	</set>
+	<main_image url="images/cereb03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

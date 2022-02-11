@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="359" y="305" thickness="2" color="000000" width="224" rotation="-31" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<line x1="313" y1="59" x2="199" y2="179" thickness="2" color="000000" style="solid" />
+		<line x1="436" y1="161" x2="413.05" y2="236" thickness="2" color="000000" style="solid" />
+		<line x1="436" y1="162" x2="369" y2="193" thickness="2" color="000000" style="solid" />
+		<line x1="412" y1="344.95" x2="379" y2="297" thickness="2" color="000000" style="solid" />
+		<line x1="144" y1="344" x2="90" y2="273" thickness="2" color="000000" style="solid" />
+		<label x="316" y="42" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Goblet cell]]></label>
+		<label x="418" y="139" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cilia]]></label>
+		<label x="419" y="344" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+		<label x="88" y="350" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Basement membrane]]></label>
+	</set>
+	<main_image url="images/trachea,epithelium,--EPON,-.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="275" y1="278" x2="279" y2="197" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="272" y1="277" x2="269" y2="198" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="270" y1="276" x2="258" y2="199" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="269" y1="277" x2="249" y2="209" thickness="1" color="FFFFFF" style="solid" />
+		<label x="228" y="288" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Elastic fibers]]></label>
+	</set>
+	<main_image url="images/aorta,-elasticCT,-10X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="425" y="381.95" thickness="2" color="000000" width="257" rotation="0" skew="0" height="105" offset="105" legs="2" style="solid" />
+		<bracket x="228" y="380.95" thickness="2" color="000000" width="119" rotation="0" skew="0" height="105" offset="105" legs="2" style="solid" />
+		<line x1="111" y1="73" x2="120" y2="134" thickness="2" color="000000" style="solid" />
+		<line x1="111" y1="75" x2="36" y2="171" thickness="2" color="000000" style="solid" />
+		<line x1="507.95" y1="115" x2="603.95" y2="33" thickness="2" color="000000" style="solid" />
+		<line x1="508.95" y1="117" x2="587.95" y2="235" thickness="2" color="000000" style="solid" />
+		<label x="74" y="48" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Myometrium]]></label>
+		<label x="383" y="104" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Sloughing surface]]></label>
+		<label x="355" y="349" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Stratum functionalis]]></label>
+		<label x="236" y="424.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Endometrium]]></label>
+		<label x="176" y="352" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Stratum basalis]]></label>
+	</set>
+	<main_image url="images/Group4Slide6.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

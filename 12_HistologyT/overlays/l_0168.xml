@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="276" y="321" thickness="2" color="000000" width="315" rotation="0" skew="0" height="11" offset="5" legs="2" style="solid" />
+		<line x1="258" y1="144" x2="82" y2="131" thickness="2" color="000000" style="solid" />
+		<line x1="208" y1="254" x2="106" y2="294" thickness="2" color="000000" style="solid" />
+		<line x1="292" y1="313" x2="292" y2="320" thickness="2" color="000000" style="solid" />
+		<line x1="256" y1="380.9" x2="194" y2="360" thickness="2" color="000000" style="solid" />
+		<line x1="356" y1="381.95" x2="377" y2="379.95" thickness="2" color="000000" style="solid" />
+		<label x="266" y="135" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Stratified squamous epithelium]]></label>
+		<label x="216" y="242" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Loose fibrous connective tissue]]></label>
+		<label x="180" y="290" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Dense fibrous irregular conective tissue]]></label>
+		<label x="260" y="369.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Collagen fiber]]></label>
+	</set>
+	<main_image url="images/skin,adipose,-4X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

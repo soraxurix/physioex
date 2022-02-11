@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="382" y="280" thickness="2" color="000000" width="108" rotation="-14" skew="0" height="45" offset="22" legs="2" style="solid" />
+		<line x1="384" y1="84" x2="294" y2="188" thickness="2" color="000000" style="solid" />
+		<line x1="362" y1="235" x2="373" y2="279" thickness="2" color="000000" style="solid" />
+		<label x="312" y="58" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Pigmented epithelium]]></label>
+		<label x="321" y="210" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Rods and cones]]></label>
+	</set>
+	<main_image url="images/retia03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

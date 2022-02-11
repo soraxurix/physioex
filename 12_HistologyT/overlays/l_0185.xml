@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="174" y="164" thickness="2" color="000000" width="93" rotation="-90" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<bracket x="267" y="244" thickness="2" color="000000" width="123" rotation="-14" skew="0" height="14" offset="7" legs="2" style="solid" />
+		<bracket x="172" y="280" thickness="2" color="000000" width="54" rotation="-25" skew="0" height="14" offset="8" legs="2" style="solid" />
+		<line x1="163" y1="87" x2="116" y2="83" thickness="2" color="000000" style="solid" />
+		<line x1="394" y1="117" x2="361" y2="143" thickness="2" color="000000" style="solid" />
+		<line x1="447.95" y1="197" x2="387" y2="189" thickness="2" color="000000" style="solid" />
+		<line x1="151" y1="160" x2="174" y2="161" thickness="2" color="000000" style="solid" />
+		<line x1="292" y1="271" x2="276" y2="245" thickness="2" color="000000" style="solid" />
+		<line x1="191" y1="316" x2="175" y2="284" thickness="2" color="000000" style="solid" />
+		<line x1="346" y1="374.95" x2="254" y2="346" thickness="2" color="000000" style="solid" />
+		<label x="171" y="78" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Capsule]]></label>
+		<label x="401" y="101" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Central artery]]></label>
+		<label x="451.95" y="187" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Germinal center]]></label>
+		<label x="96" y="150" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nodule]]></label>
+		<label x="266" y="276" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Red pulp]]></label>
+		<label x="166" y="321" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[White pulp]]></label>
+		<label x="322" y="380.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Trabecula]]></label>
+	</set>
+	<main_image url="images/spleen,-capsule,-RWpulp,-2X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

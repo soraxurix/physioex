@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<bracket x="495.95" y="351" thickness="2" color="000000" width="102" rotation="-78" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<line x1="185" y1="212" x2="155" y2="154" thickness="2" color="000000" style="solid" />
+		<line x1="475.95" y1="97" x2="518.95" y2="166" thickness="2" color="000000" style="solid" />
+		<line x1="475.95" y1="98" x2="395" y2="167" thickness="2" color="000000" style="solid" />
+		<line x1="404" y1="267" x2="492" y2="354" thickness="2" color="000000" style="solid" />
+		<label x="154" y="218" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Motor axon]]></label>
+		<label x="436.95" y="74" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Muscle fibers]]></label>
+		<label x="336" y="244" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Neuromuscular junction]]></label>
+	</set>	<main_image url="images/Group2Slide5.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

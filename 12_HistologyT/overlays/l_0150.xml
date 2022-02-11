@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="147" y="227" thickness="2" color="000000" width="160" rotation="90" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<bracket x="146" y="394.95" thickness="2" color="000000" width="156" rotation="-90" skew="0" height="20" offset="9" legs="2" style="solid" />
+		<line x1="248" y1="79" x2="215" y2="145" thickness="2" color="000000" style="solid" />
+		<line x1="222" y1="249" x2="152" y2="223" thickness="2" color="000000" style="solid" />
+		<line x1="339" y1="153" x2="334" y2="201" thickness="2" color="000000" style="solid" />
+		<line x1="485.9" y1="207" x2="414.95" y2="190" thickness="2" color="000000" style="solid" />
+		<line x1="226" y1="389.95" x2="150" y2="392.95" thickness="2" color="000000" style="solid" />
+		<label x="206" y="59" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Brush border]]></label>
+		<label x="233" y="238" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+		<label x="496.95" y="195" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Goblet cell]]></label>
+		<label x="295" y="128" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Absorptive cell]]></label>
+		<label x="239" y="377.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lamina propria]]></label>
+	</set>
+	<main_image url="images/jejunum,-EPON,-50X_03.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

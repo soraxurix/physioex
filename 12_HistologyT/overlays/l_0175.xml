@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="296" y1="92" x2="329" y2="125" thickness="2" color="000000" style="solid" />
+		<line x1="487.95" y1="227" x2="472.95" y2="393.95" thickness="2" color="000000" style="solid" />
+		<line x1="487.95" y1="229" x2="353" y2="142" thickness="2" color="000000" style="solid" />
+		<line x1="248" y1="263" x2="338" y2="154" thickness="2" color="000000" style="solid" />
+		<label x="126" y="78" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus of squamous cell]]></label>
+		<label x="212" y="269" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cytoplasm of squamous cell]]></label>
+		<label x="491.95" y="214" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Capillary]]></label>
+	</set>
+	<main_image url="images/skin,-sweatglands,-capillar.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

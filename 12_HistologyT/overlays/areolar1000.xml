@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="341" y1="401.95" x2="417.95" y2="431.95" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="375" y1="334" x2="314" y2="304" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="204" y1="251" x2="118" y2="285" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="263" y1="173" x2="205" y2="210" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="440.95" y1="75" x2="515.95" y2="32" thickness="1" color="FFFFFF" style="dotted" />
+		<label x="349" y="65" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Collagen fiber]]></label>
+		<label x="267" y="164" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Reticular fiber]]></label>
+		<label x="204" y="240" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Mast cell]]></label>
+		<label x="377.95" y="326" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Fibroblast]]></label>
+		<label x="257" y="390.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Macrophage]]></label>
+	</set>
+	<main_image url="images/areol04.1000.1000.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

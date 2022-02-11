@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="339" y1="99" x2="233" y2="101" thickness="2" color="000000" style="solid" />
+		<line x1="185" y1="151" x2="257" y2="214" thickness="2" color="000000" style="solid" />
+		<line x1="338" y1="247" x2="208" y2="256" thickness="2" color="000000" style="solid" />
+		<line x1="339" y1="246" x2="199" y2="234" thickness="2" color="000000" style="solid" />
+		<line x1="155" y1="346.95" x2="148" y2="298" thickness="2" color="000000" style="solid" />
+		<label x="345" y="88" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Free edge of epithelium]]></label>
+		<label x="109" y="126" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Lamina propria of villus]]></label>
+		<label x="347" y="235" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Intestinal glands in mucosa]]></label>
+		<label x="115" y="352" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Submucosa]]></label>
+	</set>
+	<main_image url="images/B310156.6.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

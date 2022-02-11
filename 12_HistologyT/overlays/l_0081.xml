@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="311" y1="219" x2="183" y2="279" thickness="2" color="000000" style="solid" />
+		<line x1="291" y1="366.95" x2="103" y2="335" thickness="2" color="000000" style="solid" />
+		<line x1="290" y1="368.95" x2="78" y2="400.95" thickness="2" color="000000" style="solid" />
+		<label x="243" y="195" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Basement membrane]]></label>
+		<label x="302" y="354.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Fibroblasts in lamina propria]]></label>
+	</set>
+	<main_image url="images/bladd03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

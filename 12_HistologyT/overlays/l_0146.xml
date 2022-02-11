@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="452.95" y1="194" x2="456.95" y2="120" thickness="2" color="000000" style="solid" />
+		<line x1="451" y1="194" x2="279" y2="144" thickness="2" color="000000" style="solid" />
+		<line x1="339" y1="244" x2="393" y2="276" thickness="2" color="000000" style="solid" />
+		<line x1="339" y1="244" x2="245" y2="288" thickness="2" color="000000" style="solid" />
+		<label x="376" y="199" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Contractile cardiac muscle cells]]></label>
+		<label x="278" y="219" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Purkinje fibers]]></label>
+	</set>
+	<main_image url="images/cardiac,-Purkinje,40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

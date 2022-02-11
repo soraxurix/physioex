@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="429" y1="266" x2="402" y2="310" thickness="2" color="000000" style="solid" />
+		<line x1="215" y1="117" x2="271" y2="75" thickness="2" color="000000" style="solid" />
+		<line x1="215" y1="119" x2="265" y2="169" thickness="2" color="000000" style="solid" />
+		<line x1="135" y1="266" x2="157" y2="331" thickness="2" color="000000" style="solid" />
+		<label x="431" y="242" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Chromophobe]]></label>
+		<label x="140" y="109" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Acidophils]]></label>
+		<label x="74" y="241" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Basophil]]></label>
+	</set>
+	<main_image url="images/hypop04.1000.1000.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

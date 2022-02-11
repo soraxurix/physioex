@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="451.95" y="360.95" thickness="2" color="000000" width="165" rotation="57" skew="0" height="20" offset="9" legs="2" style="solid" />
+		<line x1="443.95" y1="64" x2="341" y2="111" thickness="2" color="000000" style="solid" />
+		<line x1="446.95" y1="65" x2="424" y2="130" thickness="2" color="000000" style="solid" />
+		<line x1="449.95" y1="65" x2="515.95" y2="188" thickness="2" color="000000" style="solid" />
+		<line x1="356" y1="398.9" x2="444" y2="353.95" thickness="2" color="000000" style="solid" />
+		<label x="79" y="201" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Medulla]]></label>
+		<label x="394" y="36" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Ovarian follicles]]></label>
+		<label x="303" y="387.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cortex]]></label>
+	</set>
+	<main_image url="images/Group4Slide2.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

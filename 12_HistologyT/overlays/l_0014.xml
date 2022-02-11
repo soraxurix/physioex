@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="95" y1="220" x2="202" y2="295" thickness="2" color="000000" style="solid" />
+		<line x1="294" y1="180" x2="344" y2="228" thickness="2" color="000000" style="solid" />
+		<line x1="313" y1="378.95" x2="226" y2="405.95" thickness="2" color="000000" style="solid" />
+		<label x="28" y="197" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Cell body of the Purkinje cell]]></label>
+		<label x="264" y="158" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Molecular layer]]></label>
+		<label x="318" y="360.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Granular layer]]></label>
+	</set>
+	<main_image url="images/B310401.140.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

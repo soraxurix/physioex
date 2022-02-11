@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<line x1="208" y1="133" x2="297" y2="162" thickness="2" color="000000" style="solid" />
+		<line x1="208" y1="134" x2="173" y2="326" thickness="2" color="000000" style="solid" />
+		<line x1="208" y1="134" x2="127" y2="207" thickness="2" color="000000" style="solid" />
+		<line x1="125" y1="396.95" x2="126" y2="339" thickness="2" color="000000" style="solid" />
+		<line x1="124" y1="398.95" x2="109" y2="338" thickness="2" color="000000" style="solid" />
+		<line x1="122" y1="397.95" x2="94" y2="342.95" thickness="2" color="000000" style="solid" />
+		<line x1="450.95" y1="238" x2="347" y2="294" thickness="2" color="000000" style="solid" />
+		<line x1="481.95" y1="312" x2="552.95" y2="364" thickness="2" color="000000" style="solid" />
+		<label x="148" y="105" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cardiac muscle cells]]></label>
+		<label x="93" y="402.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Striations]]></label>
+		<label x="398" y="214" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Intercalated disc]]></label>
+		<label x="443.95" y="283" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus]]></label>
+	</set>	<main_image url="images/Group5Slide1.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="265" y1="148" x2="200" y2="156" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="204" y1="203" x2="87" y2="181" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="203" y1="207" x2="90" y2="225" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="203" y1="212" x2="142" y2="263" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="233" y1="323" x2="298" y2="281" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="456.95" y1="245" x2="455.95" y2="295" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="458.95" y1="246" x2="473.95" y2="346" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="523.95" y1="413.95" x2="609.95" y2="367" thickness="1" color="FFFFFF" style="solid" />
+		<label x="269" y="136" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Plasma]]></label>
+		<label x="209" y="195" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Red blood cells]]></label>
+		<label x="161" y="312" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Eosinophil]]></label>
+		<label x="425.9" y="221" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Platelets]]></label>
+		<label x="452.95" y="405.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Neutrophil]]></label>
+	</set>
+	<main_image url="images/eosin03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

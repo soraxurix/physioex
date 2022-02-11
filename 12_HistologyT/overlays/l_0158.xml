@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<line x1="122" y1="123" x2="167" y2="194" thickness="2" color="000000" style="solid" />
+		<line x1="283" y1="111" x2="286" y2="157" thickness="2" color="000000" style="solid" />
+		<line x1="284" y1="109" x2="296" y2="163" thickness="2" color="000000" style="solid" />
+		<line x1="415" y1="132" x2="397" y2="180" thickness="2" color="000000" style="solid" />
+		<line x1="506.95" y1="196" x2="511.95" y2="275" thickness="2" color="000000" style="solid" />
+		<line x1="415" y1="374.95" x2="384" y2="249" thickness="2" color="000000" style="solid" />
+		<line x1="403" y1="444.95" x2="314" y2="437.95" thickness="2" color="000000" style="solid" />
+		<label x="201" y="259" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Bronchus]]></label>
+		<label x="90" y="104" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cartilage]]></label>
+		<label x="268" y="88" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Alveoli]]></label>
+		<label x="383" y="112" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Blood vessel]]></label>
+		<label x="479.95" y="175" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Bronchiole]]></label>
+		<label x="376" y="382.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Alveolar duct]]></label>
+		<label x="411" y="432.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Alveolar sac]]></label>
+	</set>	<main_image url="images/lung,-bronchus,-trichrome,2.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

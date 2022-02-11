@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<bracket x="66" y="163" thickness="2" color="000000" width="28" rotation="0" skew="0" height="11" offset="5" legs="2" style="solid" />
+		<bracket x="99" y="243" thickness="2" color="000000" width="56" rotation="0" skew="0" height="25" offset="12" legs="2" style="solid" />
+		<line x1="111" y1="108" x2="67" y2="158" thickness="2" color="000000" style="solid" />
+		<line x1="144" y1="325" x2="99" y2="246" thickness="2" color="000000" style="solid" />
+		<label x="69" y="83" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Keratinized layer]]></label>
+		<label x="170" y="147" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Connective tissue]]></label>
+		<label x="115" y="328" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+	</set>	<main_image url="images/skin,adipose,-4X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

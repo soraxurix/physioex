@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="157" y1="146" x2="214" y2="138" thickness="2" color="000000" style="solid" />
+		<label x="78" y="135" color="000000" size="14" bgcolor="FFFFFF" bgalpha="3"><![CDATA[Epineurium]]></label>
+	</set>
+	<main_image url="images/nervl01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

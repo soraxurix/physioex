@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="260" y="169" thickness="2" color="000000" width="23" rotation="90" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<line x1="108" y1="146" x2="302" y2="244" thickness="2" color="000000" style="solid" />
+		<line x1="297" y1="347" x2="249" y2="248" thickness="2" color="000000" style="solid" />
+		<line x1="108" y1="354" x2="188" y2="268" thickness="2" color="000000" style="solid" />
+		<line x1="338" y1="152" x2="262" y2="170" thickness="2" color="000000" style="solid" />
+		<line x1="396" y1="214" x2="333" y2="233" thickness="2" color="000000" style="solid" />
+		<label x="51" y="126" color="000000" size="14" bgcolor="FFFFFF" bgalpha="67"><![CDATA[Lacuna]]></label>
+		<label x="293" y="350" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Central or HAVERSIAN canal]]></label>
+		<label x="61" y="356" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Matrix]]></label>
+		<label x="347" y="141" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Lamella]]></label>
+		<label x="401.9" y="203" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Canaliculus]]></label>
+	</set>
+	<main_image url="images/B310074.36.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

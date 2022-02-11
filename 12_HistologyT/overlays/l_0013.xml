@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="353" y1="20" x2="415" y2="21" thickness="2" color="000000" style="solid" />
+		<line x1="176" y1="301" x2="223" y2="244" thickness="2" color="000000" style="solid" />
+		<line x1="303" y1="380.95" x2="418" y2="322" thickness="2" color="000000" style="solid" />
+		<line x1="304" y1="384.95" x2="399" y2="353" thickness="2" color="000000" style="solid" />
+		<line x1="326" y1="175" x2="238" y2="231" thickness="2" color="000000" style="solid" />
+		<line x1="409" y1="106" x2="314" y2="116" thickness="2" color="000000" style="solid" />
+		<label x="248" y="8" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Molecular layer]]></label>
+		<label x="93" y="305" color="000000" size="14" bgcolor="FFFFFF" bgalpha="78"><![CDATA[Cell body of Purkinje cell]]></label>
+		<label x="108" y="374.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="78"><![CDATA[Granule cells in granular layer]]></label>
+		<label x="330" y="164" color="000000" size="14" bgcolor="FFFFFF" bgalpha="78"><![CDATA[Nucleus of Purkinje cell]]></label>
+		<label x="420" y="96" color="000000" size="14" bgcolor="FFFFFF" bgalpha="78"><![CDATA[Dendrites]]></label>
+	</set>
+	<main_image url="images/b310437.75.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

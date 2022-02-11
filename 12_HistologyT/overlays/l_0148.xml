@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="154" y="234.5" thickness="2" color="000000" width="167" rotation="-90" skew="0" height="20" offset="9" legs="2" style="solid" />
+		<bracket x="204" y="384.45" thickness="2" color="000000" width="180" rotation="-90" skew="0" height="15" offset="0" legs="2" style="solid" />
+		<line x1="259" y1="238.5" x2="158" y2="236.5" thickness="2" color="000000" style="solid" />
+		<line x1="297" y1="367.45" x2="207" y2="384.4" thickness="2" color="000000" style="solid" />
+		<line x1="480.95" y1="303.5" x2="416" y2="389.45" thickness="2" color="000000" style="solid" />
+		<line x1="461.95" y1="441.45" x2="364" y2="440.45" thickness="2" color="000000" style="solid" />
+		<image url="default" x="300" y="241.5" scale="99" rotation="0" />
+		<label x="264" y="227.5" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+		<label x="221" y="343.5" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Areolar connective tissue]]></label>
+		<label x="470.95" y="429.45" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Plasma cell]]></label>
+		<label x="452.95" y="279.5" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Mast cell]]></label>
+	</set>
+	<main_image url="images/jejunum,-EPON,-50X_01.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

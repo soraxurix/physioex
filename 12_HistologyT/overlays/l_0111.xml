@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<label x="203" y="188" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Crypt (no villi)]]></label>
+		<label x="469.95" y="136" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Goblet cells]]></label>
+		<line x1="297" y1="57" x2="465.95" y2="371.95" thickness="2" color="000000" style="dashed" />
+		<line x1="274" y1="58" x2="316" y2="47" thickness="2" color="000000" style="solid" />
+		<line x1="446.95" y1="380.95" x2="485.95" y2="368" thickness="2" color="000000" style="solid" />
+		<line x1="298" y1="200" x2="354" y2="172" thickness="2" color="000000" style="solid" />
+		<line x1="456.95" y1="149" x2="386" y2="183" thickness="2" color="000000" style="solid" />
+		<line x1="457.95" y1="150" x2="408" y2="208" thickness="2" color="000000" style="solid" />
+		<line x1="458.95" y1="152" x2="433" y2="275" thickness="2" color="000000" style="solid" />
+	</set>
+	<main_image url="images/Group7Slide9.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

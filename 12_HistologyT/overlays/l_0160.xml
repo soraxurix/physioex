@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="570.95" y="178" thickness="2" color="000000" width="55" rotation="29" skew="0" height="20" offset="9" legs="2" style="solid" />
+		<bracket x="564.95" y="108" thickness="2" color="000000" width="48" rotation="42" skew="0" height="20" offset="7" legs="2" style="solid" />
+		<circle x="420" y="136" thickness="2" color="000000" radius="20" style="undefined" />
+		<circle x="450" y="176" thickness="2" color="000000" radius="20" style="undefined" />
+		<line x1="505.95" y1="279" x2="466.95" y2="214" thickness="2" color="000000" style="solid" />
+		<line x1="541.9" y1="125" x2="560.9" y2="109" thickness="2" color="000000" style="solid" />
+		<line x1="429" y1="173" x2="435.05" y2="179" thickness="2" color="000000" style="solid" />
+		<line x1="451.95" y1="73" x2="539.95" y2="124" thickness="2" color="000000" style="solid" />
+		<line x1="541.95" y1="127" x2="566.95" y2="173" thickness="2" color="000000" style="solid" />
+		<label x="377.9" y="49" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Skeletal muscle cells]]></label>
+		<label x="128" y="72" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Motor nerve]]></label>
+		<label x="439.95" y="283" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Motor nerve endings]]></label>
+	</set>
+	<main_image url="images/motorendplate,-10X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="138" y="351" thickness="2" color="000000" width="34" rotation="-59" skew="0" height="12" offset="5" legs="2" style="solid" />
+		<line x1="224" y1="333" x2="184" y2="389" thickness="2" color="000000" style="solid" />
+		<line x1="222" y1="331" x2="167" y2="381" thickness="2" color="000000" style="solid" />
+		<line x1="74" y1="309" x2="130" y2="353" thickness="2" color="000000" style="solid" />
+		<line x1="111" y1="427.95" x2="146" y2="375.95" thickness="2" color="000000" style="solid" />
+		<label x="225" y="320" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nuclei]]></label>
+		<label x="40" y="286" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+		<label x="67" y="430.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+	</set>
+	<main_image url="images/skin,-sweatglands,-capillar.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

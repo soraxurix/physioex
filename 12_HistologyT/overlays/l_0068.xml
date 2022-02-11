@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="260" y1="106" x2="366" y2="172" thickness="2" color="000000" style="solid" />
+		<line x1="257" y1="106" x2="342" y2="192" thickness="2" color="000000" style="solid" />
+		<line x1="258" y1="107" x2="328" y2="258" thickness="2" color="000000" style="solid" />
+		<label x="163" y="78" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Motor neuron celll bodies]]></label>
+	</set>
+	<main_image url="images/spina01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

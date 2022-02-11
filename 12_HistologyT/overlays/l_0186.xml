@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="374" y1="137" x2="303" y2="140" thickness="2" color="000000" style="solid" />
+		<line x1="376" y1="139" x2="125" y2="191" thickness="2" color="000000" style="solid" />
+		<line x1="473.95" y1="217" x2="422" y2="234" thickness="2" color="000000" style="solid" />
+		<line x1="473.95" y1="216" x2="393" y2="158" thickness="2" color="000000" style="solid" />
+		<line x1="233" y1="290" x2="203" y2="259" thickness="2" color="000000" style="solid" />
+		<line x1="235" y1="291" x2="167" y2="308" thickness="2" color="000000" style="solid" />
+		<label x="379" y="121" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Smooth muscle]]></label>
+		<label x="482.95" y="201" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Parietal cells]]></label>
+		<label x="240" y="281" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Chief cells]]></label>
+	</set>
+	<main_image url="images/stomach,-glands2,-10X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

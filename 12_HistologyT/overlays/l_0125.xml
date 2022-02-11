@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="267" y1="334" x2="320" y2="256" thickness="2" color="000000" style="solid" />
+		<label x="390" y="112" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Neurohypophysis]]></label>
+		<label x="189" y="340" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Blood cells]]></label>
+	</set>
+	<main_image url="images/hypop02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

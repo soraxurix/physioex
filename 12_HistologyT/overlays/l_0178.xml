@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="313" y="118" thickness="2" color="000000" width="183" rotation="20" skew="0" height="13" offset="7" legs="2" style="solid" />
+		<line x1="304" y1="78" x2="296" y2="109" thickness="2" color="000000" style="solid" />
+		<line x1="206" y1="135" x2="175" y2="122" thickness="2" color="000000" style="solid" />
+		<line x1="208" y1="138" x2="155" y2="141" thickness="2" color="000000" style="solid" />
+		<line x1="150" y1="233" x2="155" y2="190" thickness="2" color="000000" style="solid" />
+		<line x1="337" y1="179" x2="309" y2="179" thickness="2" color="000000" style="solid" />
+		<line x1="514.9" y1="194" x2="449.9" y2="245" thickness="2" color="000000" style="solid" />
+		<line x1="323" y1="283" x2="461.95" y2="267" thickness="2" color="000000" style="solid" />
+		<line x1="305" y1="336.95" x2="442" y2="333" thickness="2" color="000000" style="solid" />
+		<line x1="218" y1="452.95" x2="288" y2="449.95" thickness="2" color="000000" style="solid" />
+		<line x1="506.9" y1="286" x2="445.9" y2="288" thickness="2" color="000000" style="solid" />
+		<line x1="497.9" y1="383.95" x2="464.9" y2="346" thickness="2" color="000000" style="solid" />
+		<label x="79" y="21" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="289" y="50" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Villus]]></label>
+		<label x="213" y="128" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+		<label x="65" y="238" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Areolar connective tissue]]></label>
+		<label x="343" y="168" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lamina propria]]></label>
+		<label x="482.95" y="172" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Crypt (gland)]]></label>
+		<label x="59" y="271" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Dense fibrous irregular connective tissue]]></label>
+		<label x="196" y="325" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Smooth muscle]]></label>
+		<label x="511.95" y="276" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Submucosa]]></label>
+		<label x="503.95" y="373.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Serosa]]></label>
+		<label x="90" y="442.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Muscularis externa]]></label>
+	</set>
+	<main_image url="images/small-intestine,-4X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

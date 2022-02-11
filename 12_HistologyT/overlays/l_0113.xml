@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="453" y1="371.95" x2="446" y2="296.95" thickness="2" color="000000" style="solid" />
+		<line x1="259" y1="152" x2="294" y2="142" thickness="2" color="000000" style="solid" />
+		<line x1="270" y1="287" x2="197" y2="269" thickness="2" color="000000" style="solid" />
+		<label x="417.95" y="376.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Portal vein]]></label>
+		<label x="160" y="143" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Hepatic artery]]></label>
+		<label x="279" y="278" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Bile duct]]></label>
+	</set>
+	<main_image url="images/Group7Slide12.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

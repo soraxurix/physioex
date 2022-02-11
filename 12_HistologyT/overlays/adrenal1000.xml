@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="312" y1="317" x2="190" y2="326" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="312" y1="316" x2="83" y2="242" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="312" y1="314" x2="318" y2="244" thickness="1" color="FFFFFF" style="solid" />
+		<label x="317.95" y="309" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cells of Zona glomerulosa]]></label>
+	</set>
+	<main_image url="images/adren04.1000.1000.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

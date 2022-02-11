@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="399" y1="99" x2="262" y2="77" thickness="2" color="000000" style="solid" />
+		<line x1="399" y1="101" x2="266" y2="165" thickness="2" color="000000" style="solid" />
+		<label x="401.95" y="83" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Stippled appearance]]></label>
+		<label x="401.95" y="102" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[of cytoplasm]]></label>
+		<label x="153" y="232" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cross section]]></label>
+		<label x="364.95" y="355" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Longitudinal section]]></label>
+	</set>
+	<main_image url="images/Group2Slide4.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

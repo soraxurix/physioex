@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="157" y1="54" x2="202" y2="96" thickness="2" color="000000" style="solid" />
+		<line x1="157" y1="55" x2="176" y2="137" thickness="2" color="000000" style="solid" />
+		<line x1="156" y1="56" x2="104" y2="122" thickness="2" color="000000" style="solid" />
+		<line x1="301" y1="395.95" x2="421" y2="276" thickness="2" color="000000" style="solid" />
+		<line x1="303" y1="397.95" x2="516.95" y2="350" thickness="2" color="000000" style="solid" />
+		<line x1="299" y1="395.9" x2="146" y2="312.95" thickness="2" color="000000" style="solid" />
+		<label x="144" y="32" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Villi]]></label>
+		<label x="249" y="402.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Peyer's patch]]></label>
+	</set>
+	<main_image url="images/Group7Slide8.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

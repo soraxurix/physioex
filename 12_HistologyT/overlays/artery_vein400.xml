@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="520.95" y1="304" x2="453.95" y2="358" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="434" y1="119" x2="304" y2="228" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="433.95" y1="121" x2="338" y2="332" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="432.95" y1="118" x2="389.95" y2="119" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="199" y1="110" x2="285" y2="37" thickness="1" color="FFFFFF" style="solid" />
+		<label x="114" y="99" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Endothelium]]></label>
+		<label x="369.95" y="29" color="000000" size="14" bgcolor="FFFFFF" bgalpha="70"><![CDATA[Blood in artery]]></label>
+		<label x="435.95" y="106" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Elastic lamellae]]></label>
+		<label x="507.9" y="279" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Smooth muscle]]></label>
+	</set>
+	<main_image url="images/arter03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

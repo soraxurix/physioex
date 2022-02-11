@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="455" y1="248" x2="541.95" y2="183" thickness="2" color="000000" style="solid" />
+		<line x1="377" y1="102" x2="470.95" y2="11" thickness="2" color="000000" style="solid" />
+		<line x1="376" y1="105" x2="543.95" y2="26" thickness="2" color="000000" style="solid" />
+		<line x1="378" y1="107" x2="477.95" y2="94" thickness="2" color="000000" style="solid" />
+		<label x="183" y="192" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Myelinated axons cut in cross section]]></label>
+		<label x="424" y="253" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Arteriole]]></label>
+		<label x="296" y="97" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Adipocytes]]></label>
+	</set>
+	<main_image url="images/nervx02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

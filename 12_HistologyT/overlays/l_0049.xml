@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="203" y1="49" x2="196" y2="111" thickness="2" color="000000" style="solid" />
+		<line x1="357" y1="86" x2="392" y2="111" thickness="2" color="000000" style="solid" />
+		<line x1="409.95" y1="182" x2="569.95" y2="212" thickness="2" color="000000" style="solid" />
+		<line x1="343" y1="376.95" x2="389" y2="305" thickness="2" color="000000" style="solid" />
+		<line x1="222" y1="344" x2="388" y2="276" thickness="2" color="000000" style="solid" />
+		<line x1="219" y1="345" x2="361" y2="269" thickness="2" color="000000" style="solid" />
+		<label x="90" y="26" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Cilia on pseudostratified epithelium]]></label>
+		<label x="255" y="64" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Lamina propria]]></label>
+		<label x="290" y="167" color="000000" size="14" bgcolor="FFFFFF" bgalpha="77"><![CDATA[Hyaline cartilage]]></label>
+		<label x="309" y="381.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Adventitia]]></label>
+		<label x="139" y="351" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Serous and mucous alveoli]]></label>
+	</set>
+	<main_image url="images/pseud01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

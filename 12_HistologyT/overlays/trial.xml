@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="216" y1="272" x2="269" y2="242" thickness="2" color="000000" style="solid" />
+		<line x1="280" y1="245" x2="317" y2="352" thickness="2" color="000000" style="solid" />
+		<line x1="430.95" y1="312" x2="404" y2="365" thickness="2" color="000000" style="solid" />
+		<line x1="468.95" y1="375.95" x2="392" y2="419.95" thickness="2" color="000000" style="solid" />
+		<line x1="466.95" y1="182" x2="392" y2="209" thickness="2" color="009933" style="solid" />
+		<label x="274" y="222" color="000000" size="14" bgcolor="FFFFFF" bgalpha="20"><![CDATA[Blood Cells]]></label>
+		<label x="423.95" y="289" color="000000" size="14" bgcolor="FFFFFF" bgalpha="20"><![CDATA[Artery]]></label>
+		<label x="470.95" y="358" color="000000" size="14" bgcolor="FFFFFF" bgalpha="20"><![CDATA[Vein of mine]]></label>
+	</set>
+	<set>
+		<bracket x="432" y="334" thickness="2" color="000000" width="100" rotation="0" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<circle x="445" y="170" thickness="2" color="000000" radius="20" style="undefined" />
+		<label x="312" y="187" color="000000" size="12" bgcolor="FFFFFF" bgalpha="100"><![CDATA[New Label]]></label>
+	</set>
+	<main_image url="images/adipo01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

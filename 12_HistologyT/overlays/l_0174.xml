@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="135" y1="136" x2="133" y2="162" thickness="2" color="000000" style="solid" />
+		<line x1="338" y1="160" x2="322" y2="190" thickness="2" color="000000" style="solid" />
+		<line x1="339" y1="160" x2="319" y2="233" thickness="2" color="000000" style="solid" />
+		<line x1="427.95" y1="276" x2="419" y2="219" thickness="2" color="000000" style="solid" />
+		<line x1="223" y1="289" x2="268" y2="289" thickness="2" color="000000" style="solid" />
+		<bracket x="133" y="163" thickness="2" color="000000" width="201" rotation="0" skew="0" height="17" offset="7" legs="2" style="solid" />
+		<bracket x="269" y="289" thickness="2" color="000000" width="79" rotation="-90" skew="0" height="20" offset="11" legs="2" style="solid" />
+		<label x="105" y="114" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epidermis]]></label>
+		<label x="301" y="136" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Endothelium]]></label>
+		<label x="384" y="282" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen of capillary]]></label>
+		<label x="169" y="280" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Dermis]]></label>
+	</set>
+	<main_image url="images/skin,-capillaries,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="477.9" y="384.95" thickness="2" color="000000" width="147" rotation="0" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<bracket x="423.95" y="370" thickness="2" color="000000" width="343" rotation="0" skew="0" height="84" offset="42" legs="2" style="solid" />
+		<line x1="148" y1="122" x2="27" y2="197" thickness="2" color="000000" style="solid" />
+		<line x1="149" y1="122" x2="60" y2="165" thickness="2" color="000000" style="solid" />
+		<line x1="439.95" y1="71" x2="401" y2="130" thickness="2" color="000000" style="solid" />
+		<line x1="440.95" y1="73" x2="458.95" y2="165" thickness="2" color="000000" style="solid" />
+		<line x1="440.95" y1="75" x2="416" y2="252" thickness="2" color="000000" style="solid" />
+		<label x="104" y="99" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Myometrium]]></label>
+		<label x="390" y="45" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Expanded glands]]></label>
+		<label x="369" y="341" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Endometrium]]></label>
+	</set>
+	<main_image url="images/Group4Slide5.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

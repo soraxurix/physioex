@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="210" y1="105" x2="120" y2="178" thickness="2" color="000000" style="solid" />
+		<line x1="211" y1="105" x2="134" y2="190" thickness="2" color="000000" style="solid" />
+		<line x1="212" y1="105" x2="232" y2="176" thickness="2" color="000000" style="solid" />
+		<line x1="457.95" y1="244" x2="432" y2="319" thickness="2" color="000000" style="solid" />
+		<line x1="242" y1="346" x2="128" y2="315" thickness="2" color="000000" style="solid" />
+		<line x1="241" y1="347" x2="129" y2="356" thickness="2" color="000000" style="solid" />
+		<line x1="242" y1="347" x2="174" y2="401" thickness="2" color="000000" style="solid" />
+		<label x="185" y="81" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Platelets]]></label>
+		<label x="417.95" y="219" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[White blood cell]]></label>
+		<label x="252" y="338" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Red blood cells]]></label>
+	</set>
+	<main_image url="images/blood,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

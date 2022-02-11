@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<line x1="193" y1="125" x2="113" y2="74" thickness="2" color="000000" style="solid" />
+		<line x1="191" y1="127" x2="123" y2="112" thickness="2" color="000000" style="solid" />
+		<line x1="195" y1="125" x2="218" y2="43" thickness="2" color="000000" style="solid" />
+		<line x1="353" y1="201" x2="286" y2="151" thickness="2" color="000000" style="solid" />
+		<line x1="350" y1="204" x2="239" y2="214" thickness="2" color="000000" style="solid" />
+		<line x1="354" y1="205" x2="322" y2="255" thickness="2" color="000000" style="solid" />
+		<line x1="518.95" y1="118" x2="386" y2="103" thickness="2" color="000000" style="solid" />
+		<line x1="517.95" y1="120" x2="452" y2="206" thickness="2" color="000000" style="solid" />
+		<label x="135" y="131" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Fibroblast nuclei]]></label>
+		<label x="361" y="192" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Striations]]></label>
+		<label x="523.9" y="106" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Intercalated discs]]></label>
+	</set>	<main_image url="images/cardi03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

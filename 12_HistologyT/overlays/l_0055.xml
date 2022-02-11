@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="397" y1="92" x2="487.95" y2="184" thickness="1" color="000000" style="solid" />
+		<line x1="341" y1="147" x2="381" y2="188" thickness="1" color="000000" style="solid" />
+		<line x1="319" y1="231" x2="372" y2="211" thickness="1" color="000000" style="solid" />
+		<label x="291" y="71" color="000000" size="14" bgcolor="FFFFFF" bgalpha="19"><![CDATA[Cell membrane]]></label>
+		<label x="279" y="125" color="000000" size="14" bgcolor="FFFFFF" bgalpha="19"><![CDATA[Nucleus]]></label>
+		<label x="246" y="235" color="000000" size="14" bgcolor="FFFFFF" bgalpha="19"><![CDATA[Cytoplasm]]></label>
+	</set>
+	<main_image url="images/B310072.99.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

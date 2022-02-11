@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="502.95" y1="271" x2="454" y2="263" thickness="2" color="000000" style="solid" />
+		<line x1="491.95" y1="84" x2="432" y2="176" thickness="2" color="000000" style="solid" />
+		<label x="509.95" y="207" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="509.95" y="260" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Tunica intima]]></label>
+		<label x="497.95" y="70" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Internal elastic ]]></label>
+		<label x="514.95" y="88" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[lamina]]></label>
+		<label x="315" y="223" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Tunica media]]></label>
+		<label x="100" y="164" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Tunica adventitia]]></label>
+	</set>
+	<main_image url="images/smooth,,art,CT,nerve,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

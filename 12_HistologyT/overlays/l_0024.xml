@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="195" y1="136" x2="238" y2="245" thickness="2" color="000000" style="solid" />
+		<line x1="322" y1="215" x2="280" y2="294" thickness="2" color="000000" style="solid" />
+		<label x="95" y="113" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Collagen fibers]]></label>
+		<label x="325" y="190" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Chondrocyte in lacunae]]></label>
+	</set>
+	<main_image url="images/B310277.75.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

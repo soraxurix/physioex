@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="124" y1="81" x2="80" y2="211" thickness="2" color="000000" style="solid" />
+		<line x1="339" y1="129" x2="214" y2="151" thickness="2" color="000000" style="solid" />
+		<line x1="338" y1="129" x2="247" y2="92" thickness="2" color="000000" style="solid" />
+		<line x1="167" y1="292" x2="139" y2="233" thickness="2" color="000000" style="solid" />
+		<line x1="167" y1="293" x2="127" y2="283" thickness="2" color="000000" style="solid" />
+		<line x1="316" y1="340" x2="589.95" y2="339" thickness="2" color="000000" style="solid" />
+		<line x1="318" y1="412.95" x2="317" y2="273" thickness="2" color="000000" style="solid" />
+		<line x1="404" y1="264" x2="405" y2="338" thickness="2" color="000000" style="solid" />
+		<label x="43" y="59" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Respiratory epithelium]]></label>
+		<label x="344" y="118" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Sero-mucous glands]]></label>
+		<label x="171" y="282" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lamina propria]]></label>
+		<label x="350" y="241" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Hyaline cartilage ring]]></label>
+		<bracket x="82" y="216" thickness="2" color="000000" width="59" rotation="0" skew="0" height="20" offset="9" legs="2" style="solid" />
+	</set>
+	<main_image url="images/Group6Slide1.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

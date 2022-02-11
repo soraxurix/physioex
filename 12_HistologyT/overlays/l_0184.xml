@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="146" y="140" thickness="1" color="FFFFFF" width="288" rotation="0" skew="0" height="6" offset="3" legs="2" style="solid" />
+		<bracket x="465.95" y="139" thickness="1" color="FFFFFF" width="342" rotation="0" skew="0" height="6" offset="3" legs="2" style="solid" />
+		<line x1="340" y1="1" x2="304" y2="78" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="306" y1="73" x2="290" y2="151" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="292" y1="146" x2="275" y2="215" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="276" y1="211" x2="259" y2="296" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="261" y1="293" x2="245" y2="384.95" thickness="1" color="FFFFFF" style="dotted" />
+		<line x1="248" y1="373.95" x2="232" y2="477.95" thickness="1" color="FFFFFF" style="dotted" />
+		<label x="109" y="117" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Red pulp]]></label>
+		<label x="408.95" y="117" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[White pulp]]></label>
+		<label x="485.95" y="362" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Germinal center]]></label>
+	</set>
+	<main_image url="images/spleen,-RWpulp,-EPON,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

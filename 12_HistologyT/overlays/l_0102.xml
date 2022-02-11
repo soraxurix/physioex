@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="316" y1="147" x2="487.95" y2="72" thickness="2" color="000000" style="solid" />
+		<line x1="318" y1="148" x2="552.95" y2="159" thickness="2" color="000000" style="solid" />
+		<line x1="317" y1="149" x2="549.95" y2="266" thickness="2" color="000000" style="solid" />
+		<line x1="366" y1="361.95" x2="211" y2="215" thickness="2" color="000000" style="solid" />
+		<line x1="366" y1="361.95" x2="218" y2="340" thickness="2" color="000000" style="solid" />
+		<label x="263" y="135" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Alveoli]]></label>
+		<label x="380" y="354" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Alveolar sacs]]></label>
+	</set>
+	<main_image url="images/Group6Slide4.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="424.95" y1="331" x2="391" y2="254" thickness="2" color="000000" style="solid" />
+		<line x1="261" y1="121" x2="184" y2="196" thickness="2" color="000000" style="solid" />
+		<line x1="267" y1="342" x2="307" y2="272" thickness="2" color="000000" style="solid" />
+		<line x1="264" y1="341" x2="196" y2="279" thickness="2" color="000000" style="solid" />
+		<label x="231" y="343" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Enamel]]></label>
+		<label x="258" y="98" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Pulp]]></label>
+		<label x="404" y="333" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Dentin]]></label>
+	</set>
+	<main_image url="images/tooth,-pig,-2X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

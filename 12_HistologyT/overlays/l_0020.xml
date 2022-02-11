@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<bracket x="262" y="327" thickness="2" color="000000" width="444" rotation="-24" skew="0" height="26" offset="13" legs="2" style="solid" />
+		<line x1="171" y1="186" x2="210" y2="255" thickness="2" color="000000" style="solid" />
+		<line x1="348" y1="72" x2="338" y2="180" thickness="2" color="000000" style="solid" />
+		<line x1="346" y1="72" x2="277" y2="158" thickness="2" color="000000" style="solid" />
+		<line x1="133" y1="312" x2="198" y2="278" thickness="2" color="000000" style="solid" />
+		<line x1="132" y1="314" x2="231" y2="274" thickness="2" color="000000" style="solid" />
+		<line x1="492.95" y1="393.95" x2="557.95" y2="338" thickness="2" color="000000" style="solid" />
+		<line x1="490.95" y1="393.95" x2="429" y2="284" thickness="2" color="000000" style="solid" />
+		<line x1="471" y1="142" x2="427.05" y2="169" thickness="2" color="000000" style="solid" />
+		<line x1="509.95" y1="185" x2="463" y2="205" thickness="2" color="000000" style="solid" />
+		<line x1="287" y1="415.95" x2="252" y2="337" thickness="2" color="000000" style="solid" />
+		<label x="89" y="160" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Capillary in lamina propria]]></label>
+		<label x="269" y="47" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Simple columnar cell]]></label>
+		<label x="50" y="306" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Blood cells]]></label>
+		<label x="453.95" y="402.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Goblet cell]]></label>
+		<label x="432" y="117" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Brush border]]></label>
+		<label x="516.95" y="173" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Lumen]]></label>
+		<label x="268" y="421.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Villus]]></label>
+	</set>	<main_image url="images/duode03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

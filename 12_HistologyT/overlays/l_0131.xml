@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="261" y1="36" x2="202" y2="74" thickness="2" color="000000" style="solid" />
+		<line x1="120" y1="120" x2="193" y2="192" thickness="2" color="000000" style="solid" />
+		<line x1="301" y1="190" x2="231" y2="176" thickness="2" color="000000" style="solid" />
+		<line x1="297" y1="111" x2="223" y2="163" thickness="2" color="000000" style="solid" />
+		<line x1="368" y1="384.95" x2="339" y2="287" thickness="2" color="000000" style="solid" />
+		<line x1="212" y1="307" x2="183" y2="258" thickness="2" color="000000" style="solid" />
+		<line x1="215" y1="307" x2="244" y2="263" thickness="2" color="000000" style="solid" />
+		<line x1="527.95" y1="297" x2="583.95" y2="375" thickness="2" color="000000" style="solid" />
+		<line x1="525.95" y1="299" x2="516.95" y2="385.95" thickness="2" color="000000" style="solid" />
+		<label x="269" y="18" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Granulosa cells]]></label>
+		<label x="66" y="99" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Oocyte]]></label>
+		<label x="303" y="91" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Nucleus]]></label>
+		<label x="309" y="180" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Nucleolus]]></label>
+		<label x="301" y="391.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Follicular fluid in antrum]]></label>
+		<label x="169" y="312" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Corona radiata]]></label>
+		<label x="469.95" y="271" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Immature follicles]]></label>
+	</set>
+	<main_image url="images/Group4Slide3.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

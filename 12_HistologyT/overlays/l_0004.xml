@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="351" y="101" thickness="2" color="000000" width="52" rotation="-90" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<bracket x="266" y="292" thickness="2" color="000000" width="61" rotation="-57" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<bracket x="334.95" y="208" thickness="2" color="000000" width="147" rotation="-66" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<line x1="249" y1="47" x2="358" y2="39" thickness="2" color="000000" style="solid" />
+		<line x1="280" y1="127" x2="350" y2="102" thickness="2" color="000000" style="solid" />
+		<line x1="191" y1="244" x2="265" y2="295" thickness="2" color="000000" style="solid" />
+		<line x1="95" y1="269" x2="83" y2="316" thickness="2" color="000000" style="solid" />
+		<line x1="371.95" y1="227" x2="338" y2="209" thickness="2" color="000000" style="solid" />
+		<label x="190" y="36" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Capsule]]></label>
+		<label x="162" y="115" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Zona glomerulosa]]></label>
+		<label x="137" y="224" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Zona reticularis]]></label>
+		<label x="33" y="246" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Adrenal medulla]]></label>
+		<label x="372" y="219" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Zona fasciculata]]></label>
+	</set>
+	<main_image url="images/B310418.11.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

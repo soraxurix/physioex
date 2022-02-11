@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="291" y1="127" x2="403" y2="58" thickness="2" color="000000" style="solid" />
+		<line x1="199" y1="228" x2="139" y2="319" thickness="2" color="000000" style="solid" />
+		<line x1="199" y1="228" x2="235" y2="288" thickness="2" color="000000" style="solid" />
+		<line x1="199" y1="231" x2="192" y2="318" thickness="2" color="000000" style="solid" />
+		<line x1="199" y1="229" x2="137" y2="319" thickness="2" color="000000" style="solid" />
+		<label x="197" y="121" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Blood vessel]]></label>
+		<label x="94" y="199" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Individual smooth muscle nuclei]]></label>
+	</set>
+	<main_image url="images/smoot03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

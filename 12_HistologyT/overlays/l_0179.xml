@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="474.95" y1="164" x2="413" y2="160" thickness="2" color="000000" style="solid" />
+		<label x="482.95" y="153" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Elastic tissue]]></label>
+		<label x="321" y="224" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Smooth muscle]]></label>
+		<label x="135" y="245" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Connective tissue]]></label>
+	</set>
+	<main_image url="images/smooth,,art,CT,nerve,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

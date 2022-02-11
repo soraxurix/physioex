@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="240" y1="403.95" x2="316" y2="335" thickness="2" color="000000" style="solid" />
+		<line x1="145" y1="375.95" x2="158" y2="304.95" thickness="2" color="000000" style="solid" />
+		<label x="166" y="401.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Cytoplasm]]></label>
+		<label x="47" y="370.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Chromosomes]]></label>
+	</set>
+	<main_image url="images/B310285.399.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

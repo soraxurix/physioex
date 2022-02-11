@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="311" y1="108" x2="252" y2="223" thickness="2" color="000000" style="solid" />
+		<line x1="479.95" y1="135" x2="445" y2="178" thickness="2" color="000000" style="solid" />
+		<line x1="480.95" y1="136" x2="488.95" y2="183" thickness="2" color="000000" style="solid" />
+		<line x1="380" y1="259" x2="253" y2="304" thickness="2" color="000000" style="solid" />
+		<line x1="543.95" y1="346.95" x2="591.95" y2="332" thickness="2" color="000000" style="solid" />
+		<label x="207" y="88" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Stratified squamous epithelium]]></label>
+		<label x="455.95" y="111" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Glands]]></label>
+		<label x="321" y="237" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Mucosa and submucosa]]></label>
+		<label x="416" y="337" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Muscularis externa]]></label>
+		<bracket x="248" y="222" thickness="2" color="000000" width="23" rotation="-90" skew="0" height="10" offset="5" legs="2" style="solid" />
+		<bracket x="250" y="302" thickness="2" color="000000" width="59" rotation="-90" skew="0" height="11" offset="5" legs="2" style="solid" />
+		<bracket x="594.95" y="333" thickness="2" color="000000" width="94" rotation="49" skew="0" height="20" offset="9" legs="2" style="solid" />
+	</set>
+	<main_image url="images/Group7Slide2.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

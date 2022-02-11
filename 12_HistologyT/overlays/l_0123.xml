@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="370" y="244" thickness="2" color="000000" width="113" rotation="-71" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<bracket x="296" y="383.95" thickness="2" color="000000" width="45" rotation="-66" skew="0" height="20" offset="8" legs="2" style="solid" />
+		<line x1="284" y1="221" x2="369" y2="247" thickness="2" color="000000" style="solid" />
+		<line x1="245" y1="333" x2="295" y2="383" thickness="2" color="000000" style="solid" />
+		<line x1="186" y1="397.95" x2="229" y2="421.95" thickness="2" color="000000" style="solid" />
+		<line x1="509.95" y1="360" x2="533.95" y2="277" thickness="2" color="000000" style="solid" />
+		<line x1="508.95" y1="361.95" x2="403" y2="273" thickness="2" color="000000" style="solid" />
+		<line x1="507.95" y1="361.95" x2="350" y2="397.95" thickness="2" color="000000" style="solid" />
+		<label x="231" y="210" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Oocyte]]></label>
+		<label x="197" y="309" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Oocyte nucleus]]></label>
+		<label x="103" y="382.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Follicle cells]]></label>
+		<label x="515.95" y="363.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Follicles]]></label>
+	</set>
+	<main_image url="images/ovary03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

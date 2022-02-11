@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="416" y1="232" x2="317" y2="225" thickness="2" color="000000" style="solid" />
+		<line x1="416" y1="234" x2="337" y2="246" thickness="2" color="000000" style="solid" />
+		<line x1="400" y1="299" x2="338" y2="282" thickness="2" color="000000" style="solid" />
+		<label x="427" y="222" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Eosinophilic granules]]></label>
+		<label x="407" y="285" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus]]></label>
+	</set>
+	<main_image url="images/blood,-eosino,-100X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

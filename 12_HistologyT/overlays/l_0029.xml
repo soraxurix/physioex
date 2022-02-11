@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="346" y1="308" x2="315" y2="329" thickness="2" color="000000" style="solid" />
+		<line x1="345" y1="307" x2="231" y2="259" thickness="2" color="000000" style="solid" />
+		<line x1="220" y1="196" x2="140" y2="251" thickness="2" color="000000" style="solid" />
+		<line x1="220" y1="195" x2="92" y2="181" thickness="2" color="000000" style="solid" />
+		<line x1="346" y1="306" x2="338" y2="272" thickness="2" color="000000" style="solid" />
+		<line x1="249" y1="122" x2="111" y2="122" thickness="2" color="000000" style="solid" />
+		<label x="354" y="304" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Mesenchymal cells]]></label>
+		<label x="232" y="183" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Fibers]]></label>
+		<label x="262" y="110" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Ground substance]]></label>
+	</set>
+	<main_image url="images/mesen03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="503.95" y1="247" x2="499.95" y2="309" thickness="2" color="000000" style="solid" />
+		<line x1="284" y1="149" x2="308" y2="315" thickness="2" color="000000" style="solid" />
+		<label x="246" y="124" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Acinar cells]]></label>
+		<label x="456.95" y="222" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Islet of Langerhams]]></label>
+	</set>
+	<main_image url="images/B310474.24.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="239" y1="247" x2="286" y2="209" thickness="2" color="CC3366" style="solid" />
+		<line x1="240" y1="249" x2="266" y2="275" thickness="2" color="CC3366" style="solid" />
+		<label x="139" y="239" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Reticular fibres]]></label>
+	</set>
+	<main_image url="images/B310359.100.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

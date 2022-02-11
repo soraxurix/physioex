@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="292" y1="330" x2="291" y2="307" thickness="2" color="000000" style="solid" />
+		<line x1="192" y1="375.95" x2="95" y2="442.95" thickness="2" color="000000" style="solid" />
+		<line x1="191" y1="376.95" x2="51" y2="420.95" thickness="2" color="000000" style="solid" />
+		<line x1="191" y1="375.95" x2="25" y2="392.95" thickness="2" color="000000" style="solid" />
+		<line x1="324" y1="70" x2="331" y2="217" thickness="2" color="000000" style="solid" />
+		<line x1="520.95" y1="271" x2="608.95" y2="265" thickness="2" color="000000" style="solid" />
+		<line x1="521.95" y1="271" x2="614.95" y2="194" thickness="2" color="000000" style="solid" />
+		<line x1="457" y1="149" x2="423" y2="170" thickness="2" color="000000" style="solid" />
+		<line x1="460" y1="148" x2="403" y2="219" thickness="2" color="000000" style="solid" />
+		<line x1="241" y1="174" x2="263" y2="209" thickness="2" color="000000" style="solid" />
+		<line x1="242" y1="173" x2="266" y2="186" thickness="2" color="000000" style="solid" />
+		<label x="254" y="335" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Liver lobule]]></label>
+		<label x="199" y="365.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Portal triad]]></label>
+		<label x="283" y="45" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Central vein]]></label>
+		<label x="101" y="152" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Cords of hepatocytes]]></label>
+		<label x="429.95" y="125" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Sinusoids]]></label>
+		<label x="443.95" y="253" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Portal triad]]></label>
+		<bracket x="322" y="316" thickness="2" color="000000" width="449" rotation="21" skew="0" height="20" offset="8" legs="2" style="solid" />
+	</set>
+	<main_image url="images/Group7Slide10.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

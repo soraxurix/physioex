@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="353" y1="63" x2="383" y2="134" thickness="2" color="000000" style="solid" />
+		<line x1="352" y1="66" x2="342" y2="151" thickness="2" color="000000" style="solid" />
+		<line x1="350" y1="64" x2="256" y2="162" thickness="2" color="000000" style="solid" />
+		<label x="309" y="36" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Purkinje cells]]></label>
+		<label x="264" y="225" color="000000" size="14" bgcolor="FFFFFF" bgalpha="51"><![CDATA[Granular layer]]></label>
+		<label x="160" y="114" color="000000" size="14" bgcolor="FFFFFF" bgalpha="51"><![CDATA[Molecular layer]]></label>
+	</set>
+	<main_image url="images/cbell01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

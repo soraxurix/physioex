@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="149" y1="382.9" x2="184" y2="361" thickness="2" color="000000" style="solid" />
+		<line x1="363" y1="211" x2="232" y2="207" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="364" y1="214" x2="253" y2="222" thickness="1" color="FFFFFF" style="solid" />
+		<line x1="363" y1="218" x2="272" y2="233" thickness="1" color="FFFFFF" style="solid" />
+		<label x="59" y="372.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Tunica intima]]></label>
+		<label x="79" y="188" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="379" y="394.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Tunica media]]></label>
+		<label x="369" y="206" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Elastic lamellae]]></label>
+	</set>
+	<main_image url="images/aorta,-elasticCT,-10X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

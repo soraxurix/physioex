@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="94" y="291" thickness="2" color="000000" width="100" rotation="0" skew="0" height="38" offset="20" legs="2" style="solid" />
+		<line x1="335" y1="321" x2="238" y2="278" thickness="2" color="000000" style="solid" />
+		<line x1="369" y1="204" x2="315" y2="205" thickness="2" color="000000" style="solid" />
+		<line x1="315" y1="207" x2="289" y2="185" thickness="2" color="000000" style="solid" />
+		<line x1="315" y1="207" x2="287" y2="231" thickness="2" color="000000" style="solid" />
+		<line x1="314" y1="206" x2="292" y2="206" thickness="2" color="000000" style="solid" />
+		<line x1="262" y1="97" x2="362" y2="53" thickness="2" color="000000" style="solid" />
+		<label x="71" y="301" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Aster]]></label>
+		<label x="342" y="311" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Metaphase plate]]></label>
+		<label x="377.95" y="192" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Spindle]]></label>
+		<label x="155" y="86" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Cell membrane]]></label>
+	</set>
+	<main_image url="images/B310287.399.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="296" y1="409.95" x2="197" y2="359" thickness="2" color="000000" style="solid" />
+		<line x1="141" y1="289" x2="239" y2="313" thickness="2" color="000000" style="solid" />
+		<line x1="336" y1="220" x2="257" y2="250" thickness="2" color="000000" style="solid" />
+		<line x1="236" y1="161" x2="253" y2="216" thickness="2" color="000000" style="solid" />
+		<label x="305" y="401.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Schwann cell nucleus]]></label>
+		<label x="95" y="278" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Axon]]></label>
+		<label x="345" y="204" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Myelin]]></label>
+		<label x="191" y="136" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Endoneurium]]></label>
+	</set>
+	<main_image url="images/nervx03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="218" y1="201" x2="155" y2="195" thickness="2" color="000000" style="solid" />
+		<line x1="219" y1="203" x2="126" y2="238" thickness="2" color="000000" style="solid" />
+		<line x1="218" y1="204" x2="149" y2="241" thickness="2" color="000000" style="solid" />
+		<label x="229" y="190" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Glomeruli ]]></label>
+		<label x="58" y="277" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cortex]]></label>
+		<label x="437.95" y="412.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Medulla]]></label>
+	</set>
+	<main_image url="images/kidney,-cortex-and-medulla,.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

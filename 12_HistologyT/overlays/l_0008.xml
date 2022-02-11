@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="330" y1="261" x2="206" y2="357" thickness="2" color="FFFFFF" style="solid" />
+		<line x1="422" y1="291" x2="370" y2="341" thickness="2" color="FFFFFF" style="solid" />
+		<line x1="425" y1="291" x2="402" y2="345" thickness="2" color="FFFFFF" style="solid" />
+		<label x="270" y="234" color="000000" size="14" bgcolor="FFCCFF" bgalpha="67"><![CDATA[Haversian canal]]></label>
+		<label x="425" y="268" color="000000" size="14" bgcolor="FFCCFF" bgalpha="69"><![CDATA[Lamellae]]></label>
+	</set>
+	<main_image url="images/bonex01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

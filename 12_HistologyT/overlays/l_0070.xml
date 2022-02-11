@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<label x="311" y="162" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Stratified squamous epithelium]]></label>
+	</set>	<main_image url="images/strsq02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

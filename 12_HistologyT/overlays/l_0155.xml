@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="512.95" y1="146" x2="438" y2="122" thickness="2" color="000000" style="solid" />
+		<line x1="542.95" y1="175" x2="419" y2="228" thickness="2" color="000000" style="solid" />
+		<label x="464" y="152" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Simple cuboidal epithelium]]></label>
+		<bracket x="416" y="223" thickness="2" color="000000" width="32" rotation="90" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<bracket x="434" y="120" thickness="2" color="000000" width="33" rotation="90" skew="0" height="20" offset="0" legs="2" style="solid" />
+	</set>
+	<main_image url="images/kidney,-medulla,-40X#2.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

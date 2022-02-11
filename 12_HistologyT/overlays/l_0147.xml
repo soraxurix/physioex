@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="286" y1="88.5" x2="309" y2="148.5" thickness="2" color="000000" style="solid" />
+		<line x1="285" y1="88" x2="227" y2="158" thickness="2" color="000000" style="solid" />
+		<line x1="139" y1="142" x2="206" y2="219" thickness="2" color="000000" style="solid" />
+		<label x="435.95" y="284.5" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Matrix]]></label>
+		<label x="238" y="62.5" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Elastic fibers]]></label>
+		<label x="74" y="116" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Chondrocyte in lacuna]]></label>
+	</set>
+	<main_image url="images/elasticcart,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

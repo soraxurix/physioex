@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<circle x="294" y="189" thickness="2" color="000000" radius="19" style="undefined" />
+		<line x1="379" y1="350" x2="387" y2="298" thickness="2" color="000000" style="solid" />
+		<line x1="269" y1="291" x2="349" y2="256" thickness="2" color="000000" style="solid" />
+		<line x1="439.95" y1="192" x2="380" y2="235" thickness="2" color="000000" style="solid" />
+		<line x1="315" y1="131" x2="302" y2="187" thickness="2" color="000000" style="solid" />
+		<label x="273" y="105" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nissl bodies]]></label>
+		<label x="442.95" y="181" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus]]></label>
+		<label x="200" y="289" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleolus]]></label>
+		<label x="351" y="353" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cell body]]></label>
+	</set>
+	<main_image url="images/Group3Slide2.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<line x1="243" y1="104" x2="191" y2="126" thickness="2" color="000000" style="solid" />
+		<line x1="453.95" y1="220" x2="622" y2="154" thickness="2" color="000000" style="solid" />
+		<line x1="454" y1="221" x2="524" y2="148" thickness="2" color="000000" style="solid" />
+		<line x1="323" y1="316" x2="284" y2="270" thickness="2" color="000000" style="solid" />
+		<line x1="196" y1="221" x2="159" y2="161" thickness="2" color="000000" style="solid" />
+		<line x1="195" y1="220" x2="99" y2="217" thickness="2" color="000000" style="solid" />
+		<line x1="128" y1="284" x2="114" y2="338" thickness="2" color="000000" style="solid" />
+		<line x1="128" y1="284" x2="70" y2="330" thickness="2" color="000000" style="solid" />
+		<label x="91" y="263" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Mast cells]]></label>
+		<label x="199" y="212" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Elastic fibre]]></label>
+		<label x="249" y="95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Fibroblast]]></label>
+		<label x="299" y="317" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Macrophage]]></label>
+		<label x="360" y="211" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Blood vessels]]></label>
+	</set>	<main_image url="images/areol02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

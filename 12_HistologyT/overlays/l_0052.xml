@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="442.05" y="432.95" thickness="2" color="000000" width="98" rotation="-9" skew="0" height="34" offset="17" legs="2" style="solid" />
+		<line x1="199" y1="237" x2="335" y2="307" thickness="2" color="000000" style="solid" />
+		<line x1="210" y1="329" x2="365" y2="373.95" thickness="2" color="000000" style="solid" />
+		<line x1="317" y1="127" x2="383" y2="158" thickness="2" color="000000" style="solid" />
+		<line x1="457" y1="175" x2="420.05" y2="231" thickness="2" color="000000" style="solid" />
+		<line x1="481.95" y1="238" x2="421" y2="299" thickness="2" color="000000" style="solid" />
+		<line x1="495.95" y1="325" x2="405" y2="336" thickness="2" color="000000" style="solid" />
+		<line x1="491.95" y1="379.95" x2="441" y2="430.95" thickness="2" color="000000" style="solid" />
+		<label x="151" y="226" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Sclera]]></label>
+		<label x="153" y="319" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Choroid]]></label>
+		<label x="183" y="114" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Ganglion cell axons]]></label>
+		<label x="460.95" y="152" color="000000" size="14" bgcolor="000000" bgalpha="17"><![CDATA[Ganglion cell nuclei]]></label>
+		<label x="487.95" y="219" color="000000" size="14" bgcolor="000000" bgalpha="19"><![CDATA[Bipolar cell nuclei]]></label>
+		<label x="502.95" y="312" color="000000" size="14" bgcolor="000000" bgalpha="19"><![CDATA[Rod and cone]]></label>
+		<label x="515.95" y="331" color="000000" size="14" bgcolor="000000" bgalpha="19"><![CDATA[cell nuclei]]></label>
+		<label x="496.95" y="366.95" color="000000" size="14" bgcolor="000000" bgalpha="19"><![CDATA[Retina]]></label>
+	</set>
+	<main_image url="images/retin01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="225" y1="137" x2="301" y2="97" thickness="2" color="000000" style="solid" />
+		<label x="135" y="127" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Blood Vessel]]></label>
+	</set>
+	<main_image url="images/areol01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

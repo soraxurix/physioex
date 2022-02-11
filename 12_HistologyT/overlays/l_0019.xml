@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="419.95" y1="218" x2="395.95" y2="231" thickness="2" color="FFFFFF" style="solid" />
+		<line x1="489" y1="419.95" x2="501" y2="371.95" thickness="2" color="FFFFFF" style="solid" />
+		<line x1="493.95" y1="252" x2="440" y2="286" thickness="2" color="000000" style="solid" />
+		<circle x="305" y="183" thickness="2" color="FFFFFF" radius="101" style="undefined" />
+		<label x="422.9" y="198" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Sensory neuron cell body]]></label>
+		<label x="463.95" y="313" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Cytoplasm]]></label>
+		<label x="464" y="421.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Nucleus]]></label>
+		<label x="492.95" y="236" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Satellite cell]]></label>
+	</set>
+	<main_image url="images/drgan03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

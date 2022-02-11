@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="208" y1="241" x2="159" y2="204" thickness="2" color="000000" style="solid" />
+		<line x1="405" y1="270" x2="346" y2="273" thickness="2" color="000000" style="solid" />
+		<line x1="402" y1="271" x2="345" y2="292" thickness="2" color="000000" style="solid" />
+		<bracket x="159" y="198" thickness="2" color="000000" width="77" rotation="-59" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<label x="303" y="99" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="215" y="240" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+		<label x="409" y="251" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nuclei]]></label>
+		<label x="233" y="393.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Connective tissue]]></label>
+	</set>
+	<main_image url="images/parotid,-large-duct,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="420" y1="68" x2="360" y2="165" thickness="2" color="000000" style="solid" />
+		<line x1="512.95" y1="124" x2="431" y2="174" thickness="2" color="000000" style="solid" />
+		<line x1="266" y1="251" x2="348" y2="252" thickness="2" color="000000" style="solid" />
+		<line x1="397.95" y1="397.95" x2="402.95" y2="263" thickness="2" color="000000" style="solid" />
+		<label x="335" y="45" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Stratified squamous epithelium]]></label>
+		<label x="467.95" y="100" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Gustatory pore]]></label>
+		<label x="179" y="240" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Support cell]]></label>
+		<label x="309" y="401.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Supporting cell nucleus]]></label>
+		<label x="355" y="420.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[(taste cell)]]></label>
+	</set>
+	<main_image url="images/B310125.140.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

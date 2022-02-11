@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="246" y1="316" x2="308" y2="317" thickness="2" color="000000" style="solid" />
+		<line x1="383" y1="143" x2="345" y2="182" thickness="2" color="000000" style="solid" />
+		<line x1="384" y1="144" x2="470.95" y2="212" thickness="2" color="000000" style="solid" />
+		<bracket x="307" y="317" thickness="2" color="000000" width="52" rotation="-90" skew="0" height="20" offset="0" legs="2" style="solid" />
+		<label x="376" y="120" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lamina propria]]></label>
+		<label x="294" y="243" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="97.95" y="304" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Transitional epithelium]]></label>
+	</set>
+	<main_image url="images/ureter,-4X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

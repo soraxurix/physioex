@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="253" y="318" thickness="2" color="000000" width="182" rotation="-85" skew="0" height="13" offset="6" legs="2" style="solid" />
+		<line x1="400" y1="140" x2="314" y2="140" thickness="2" color="000000" style="solid" />
+		<line x1="347" y1="314" x2="257" y2="311" thickness="2" color="000000" style="solid" />
+		<line x1="129" y1="263" x2="216" y2="328" thickness="2" color="000000" style="solid" />
+		<line x1="128" y1="263" x2="155" y2="325" thickness="2" color="000000" style="solid" />
+		<label x="410.95" y="129" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Goblet cell]]></label>
+		<label x="358" y="304" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Epithelium]]></label>
+		<label x="254" y="438.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Areolar connective tissue]]></label>
+		<label x="102" y="240" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nuclei]]></label>
+	</set>
+	<main_image url="images/jejunum,-EPON,-50X_02.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

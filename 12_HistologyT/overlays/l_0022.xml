@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="191" y1="161" x2="262" y2="95" thickness="2" color="000000" style="solid" />
+		<line x1="374" y1="117" x2="267" y2="116" thickness="2" color="000000" style="solid" />
+		<line x1="378" y1="166" x2="283" y2="190" thickness="2" color="000000" style="solid" />
+		<line x1="350" y1="302" x2="326" y2="221" thickness="2" color="000000" style="solid" />
+		<line x1="143" y1="351" x2="212" y2="289" thickness="2" color="000000" style="solid" />
+		<label x="71" y="152" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Connective tissue]]></label>
+		<label x="382" y="106" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Smooth muscle]]></label>
+		<label x="385" y="156" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[ Stereocilia]]></label>
+		<label x="269" y="305" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Pseudostratified epithelium]]></label>
+		<label x="89" y="353" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Lumen]]></label>
+	</set>
+	<main_image url="images/b310496.19.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

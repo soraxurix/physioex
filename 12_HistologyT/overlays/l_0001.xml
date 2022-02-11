@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<circle x="340" y="357.95" thickness="2" color="000000" radius="20" style="undefined" />
+		<line x1="402" y1="160" x2="416.05" y2="232" thickness="2" color="000000" style="solid" />
+		<line x1="401" y1="158" x2="340" y2="177" thickness="2" color="000000" style="solid" />
+		<line x1="404" y1="302" x2="422.1" y2="275" thickness="2" color="000000" style="solid" />
+		<line x1="404" y1="304" x2="462" y2="249" thickness="2" color="000000" style="solid" />
+		<line x1="404" y1="374.9" x2="361" y2="375.9" thickness="2" color="000000" style="solid" />
+		<line x1="253" y1="411.95" x2="306" y2="400.95" thickness="2" color="000000" style="solid" />
+		<line x1="253" y1="413.95" x2="301" y2="425.95" thickness="2" color="000000" style="solid" />
+		<label x="402" y="139" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Sweat Gland Ducts]]></label>
+		<label x="216" y="292" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Sweat Gland Secretory Units]]></label>
+		<label x="409" y="365.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Adipose Cell]]></label>
+		<label x="207" y="402.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nuclei]]></label>
+		<label x="150" y="419.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[of adipose cells]]></label>
+	</set>
+	<main_image url="images/skin,adipose,-4X_02.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

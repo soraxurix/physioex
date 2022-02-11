@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<label x="506.95" y="144" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Adipose]]></label>
+		<label x="232" y="108" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Connective tissue]]></label>
+		<label x="274" y="330" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="379" y="355.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Ciliated simple ]]></label>
+		<label x="379" y="373.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[columnar epithelium]]></label>
+	</set>
+	<main_image url="images/utube01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

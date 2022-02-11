@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="361" y1="62" x2="450" y2="97" thickness="2" color="000000" style="solid" />
+		<line x1="549.95" y1="149" x2="630.95" y2="149" thickness="2" color="000000" style="solid" />
+		<line x1="322" y1="231" x2="299" y2="254" thickness="2" color="000000" style="solid" />
+		<line x1="495.95" y1="225" x2="441" y2="252" thickness="2" color="000000" style="solid" />
+		<line x1="496.95" y1="229" x2="425" y2="286" thickness="2" color="000000" style="solid" />
+		<line x1="498.95" y1="232" x2="444" y2="295" thickness="2" color="000000" style="solid" />
+		<line x1="410" y1="417.95" x2="410" y2="364" thickness="2" color="000000" style="solid" />
+		<label x="269" y="41" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Vestibular membrane]]></label>
+		<label x="186" y="122" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Vestibular duct]]></label>
+		<label x="265" y="214" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Tectorial membrane]]></label>
+		<label x="370.95" y="181" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Cochlear duct]]></label>
+		<label x="448.95" y="138" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Spiral ligament]]></label>
+		<label x="497.95" y="213" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Hair cells]]></label>
+		<label x="355" y="416.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Basilar membrane]]></label>
+		<label x="202" y="426.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Tympanic duct]]></label>
+	</set>
+	<main_image url="images/cochl02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

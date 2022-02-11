@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="308" y="212" thickness="2" color="000000" width="167" rotation="23" skew="0" height="51" offset="25" legs="2" style="solid" />
+		<line x1="163" y1="262" x2="292" y2="309" thickness="2" color="000000" style="solid" />
+		<line x1="375" y1="142" x2="306" y2="208" thickness="2" color="000000" style="solid" />
+		<label x="73" y="90" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Connective tissue]]></label>
+		<label x="379" y="380.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="87" y="249" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Goblet cell]]></label>
+		<label x="280" y="118" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Ciliated columnar epithelium]]></label>
+	</set>
+	<main_image url="images/utube03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

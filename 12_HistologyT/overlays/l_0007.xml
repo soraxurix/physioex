@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="485" y1="63" x2="389" y2="114" thickness="2" color="000000" style="solid" />
+		<line x1="486.95" y1="65" x2="292.95" y2="222" thickness="2" color="000000" style="solid" />
+		<line x1="489.95" y1="67" x2="330" y2="340" thickness="2" color="000000" style="solid" />
+		<line x1="516.95" y1="311" x2="448" y2="373" thickness="2" color="000000" style="solid" />
+		<label x="490.95" y="44" color="000000" size="14" bgcolor="FFFFFF" bgalpha="46"><![CDATA[Elastic lamellae]]></label>
+		<label x="472.95" y="291" color="000000" size="12" bgcolor="FFFFFF" bgalpha="67"><![CDATA[Smooth muscle]]></label>
+	</set>
+	<main_image url="images/arter03.400.400.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

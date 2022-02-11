@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="205.5" y="332" thickness="2" color="000000" width="17" rotation="90" skew="0" height="8" offset="0" legs="2" style="solid" />
+		<line x1="183.5" y1="126" x2="299.5" y2="186" thickness="2" color="000000" style="solid" />
+		<line x1="183.5" y1="127" x2="331.5" y2="273" thickness="2" color="000000" style="solid" />
+		<line x1="183.5" y1="130" x2="188.5" y2="307" thickness="2" color="000000" style="solid" />
+		<line x1="266" y1="333" x2="209" y2="333" thickness="2" color="000000" style="solid" />
+		<line x1="236" y1="400.95" x2="195" y2="354" thickness="2" color="000000" style="solid" />
+		<label x="112.5" y="106" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Mast cells]]></label>
+		<label x="276" y="321" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nucleus of mast cell]]></label>
+		<label x="239" y="404.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cytoplasm of mast cell]]></label>
+	</set>
+	<main_image url="images/areolar-spread-3,-mast-cell.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

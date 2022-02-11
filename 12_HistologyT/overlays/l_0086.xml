@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="270" y1="313" x2="318" y2="312" thickness="2" color="000000" style="solid" />
+		<line x1="273" y1="394.95" x2="316" y2="393.95" thickness="2" color="000000" style="solid" />
+		<line x1="273" y1="352.95" x2="317" y2="352" thickness="2" color="000000" style="solid" />
+		<line x1="171" y1="348.95" x2="268" y2="353" thickness="2" color="0000FF" style="solid" />
+		<line x1="171" y1="348" x2="267" y2="314" thickness="2" color="0000FF" style="solid" />
+		<line x1="379" y1="345" x2="334" y2="302" thickness="2" color="0000FF" style="solid" />
+		<line x1="381" y1="348" x2="332" y2="338" thickness="2" color="0000FF" style="solid" />
+		<line x1="245" y1="295" x2="288" y2="168" thickness="2" color="000000" style="dashed" />
+		<line x1="343" y1="297" x2="302" y2="167" thickness="2" color="000000" style="dashed" />
+		<line x1="292" y1="164" x2="292" y2="153" thickness="1" color="000000" style="solid" />
+		<line x1="300" y1="164" x2="300" y2="154" thickness="2" color="000000" style="solid" />
+		<bracket x="243" y="354" thickness="2" color="000000" width="115" rotation="-90" skew="0" height="22" offset="0" legs="4" style="solid" />
+		<bracket x="342" y="355" thickness="2" color="000000" width="116" rotation="90" skew="0" height="20" offset="0" legs="4" style="solid" />
+		<label x="253" y="416.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Sarcomere]]></label>
+		<label x="117" y="337" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Myosin]]></label>
+		<label x="390" y="340" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Actin]]></label>
+	</set>
+	<main_image url="images/Group2Slide3.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

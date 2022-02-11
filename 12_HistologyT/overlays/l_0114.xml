@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="485.95" y1="135" x2="451" y2="199" thickness="2" color="000000" style="solid" />
+		<line x1="486.95" y1="135" x2="516.95" y2="245" thickness="2" color="000000" style="solid" />
+		<line x1="228" y1="194" x2="88" y2="154" thickness="2" color="000000" style="solid" />
+		<line x1="229" y1="196" x2="221" y2="307" thickness="2" color="000000" style="solid" />
+		<label x="425" y="109" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Exocrine secretory unit]]></label>
+		<label x="235" y="173" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Islets of Langerhans]]></label>
+		<circle x="435" y="199" thickness="2" color="000000" radius="24" style="undefined" />
+		<circle x="516.95" y="248" thickness="2" color="000000" radius="24" style="undefined" />
+	</set>
+	<main_image url="images/Group4Slide7.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

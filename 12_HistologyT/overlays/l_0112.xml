@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="189" y1="239" x2="112" y2="290" thickness="2" color="000000" style="solid" />
+		<line x1="397" y1="309" x2="462.95" y2="293" thickness="2" color="000000" style="solid" />
+		<line x1="398" y1="311" x2="473.95" y2="302" thickness="2" color="000000" style="solid" />
+		<line x1="399" y1="312" x2="436" y2="358" thickness="2" color="000000" style="solid" />
+		<line x1="397" y1="311" x2="430" y2="400.95" thickness="2" color="000000" style="solid" />
+		<line x1="317" y1="63" x2="401" y2="162" thickness="2" color="000000" style="solid" />
+		<line x1="318" y1="63" x2="336" y2="199" thickness="2" color="000000" style="solid" />
+		<line x1="316" y1="63" x2="257" y2="144" thickness="2" color="000000" style="solid" />
+		<line x1="317" y1="64" x2="303" y2="163" thickness="2" color="000000" style="solid" />
+		<line x1="532.95" y1="201" x2="539.95" y2="104" thickness="2" color="000000" style="solid" />
+		<line x1="532.95" y1="203" x2="495.95" y2="126" thickness="2" color="000000" style="solid" />
+		<line x1="533.95" y1="234" x2="509.95" y2="262" thickness="2" color="000000" style="solid" />
+		<label x="153" y="216" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Central vein]]></label>
+		<label x="235" y="302" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Phagocytic Kupffer cells]]></label>
+		<label x="276" y="35" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Hepatocytes]]></label>
+		<label x="502.95" y="210" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Sinusoids]]></label>
+	</set>
+	<main_image url="images/Group7Slide11.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

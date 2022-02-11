@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="348" y="247" thickness="2" color="000000" width="390" rotation="0" skew="-31" height="30" offset="15" legs="2" style="solid" />
+		<bracket x="578.95" y="201" thickness="2" color="000000" width="82" rotation="-29" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<line x1="144" y1="317" x2="64" y2="299" thickness="2" color="000000" style="solid" />
+		<line x1="532.95" y1="90" x2="598.95" y2="113" thickness="2" color="000000" style="solid" />
+		<line x1="336" y1="196" x2="356" y2="244" thickness="2" color="000000" style="solid" />
+		<line x1="546.95" y1="150" x2="577.95" y2="197" thickness="2" color="000000" style="solid" />
+		<label x="471.95" y="78" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Capsule]]></label>
+		<label x="426" y="133" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Zona glomerulosa]]></label>
+		<label x="286" y="173" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Zona fasciculata]]></label>
+		<label x="150" y="310" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Zona reticularis]]></label>
+	</set>
+	<main_image url="images/b310363.30.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

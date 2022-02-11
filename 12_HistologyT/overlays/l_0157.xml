@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><overlay>	<set>		<line x1="235" y1="129" x2="310" y2="113" thickness="2" color="000000" style="solid" />
+		<line x1="235" y1="130" x2="280" y2="195" thickness="2" color="000000" style="solid" />
+		<line x1="454.95" y1="226" x2="334" y2="165" thickness="2" color="000000" style="solid" />
+		<line x1="457.95" y1="226" x2="388" y2="143" thickness="2" color="000000" style="solid" />
+		<line x1="457.95" y1="229" x2="307" y2="185" thickness="2" color="000000" style="solid" />
+		<line x1="245" y1="331" x2="394" y2="316" thickness="2" color="000000" style="solid" />
+		<line x1="245" y1="331.95" x2="367" y2="343" thickness="2" color="000000" style="solid" />
+		<line x1="245" y1="333" x2="325" y2="414" thickness="2" color="000000" style="solid" />
+		<line x1="489.95" y1="364.95" x2="414" y2="375.95" thickness="2" color="000000" style="solid" />
+		<line x1="491.95" y1="364.95" x2="433" y2="411.95" thickness="2" color="000000" style="solid" />
+		<image url="default" x="317" y="250" scale="99" rotation="0" />
+		<label x="125" y="117" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Fibroblast nuclei]]></label>
+		<label x="465.95" y="219" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Collagen fibers]]></label>
+		<label x="96" y="319" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Smooth muscle nuclei]]></label>
+		<label x="423" y="337" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Smooth muscle cytoplasm]]></label>
+	</set>	<main_image url="images/LI,-CT,-muscle,-40X.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

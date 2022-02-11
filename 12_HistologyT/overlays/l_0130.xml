@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<bracket x="430" y="195" thickness="2" color="000000" width="34" rotation="-90" skew="0" height="20" offset="11" legs="2" style="solid" />
+		<bracket x="430" y="238" thickness="2" color="000000" width="32" rotation="90" skew="0" height="20" offset="10" legs="2" style="solid" />
+		<line x1="285" y1="128" x2="354" y2="192" thickness="2" color="000000" style="solid" />
+		<line x1="283" y1="127" x2="194" y2="216" thickness="2" color="000000" style="solid" />
+		<line x1="476.95" y1="211" x2="434" y2="197" thickness="2" color="000000" style="solid" />
+		<line x1="478" y1="213" x2="435.05" y2="241" thickness="2" color="000000" style="solid" />
+		<label x="266" y="104" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Axon]]></label>
+		<label x="485.95" y="202" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Myelin sheath]]></label>
+	</set>
+	<main_image url="images/Group3Slide4.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

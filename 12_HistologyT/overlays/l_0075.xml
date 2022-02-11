@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="217" y1="168" x2="284" y2="206" thickness="2" color="000000" style="solid" />
+		<line x1="455.95" y1="75" x2="397" y2="215" thickness="2" color="000000" style="solid" />
+		<line x1="440.95" y1="180" x2="431" y2="241" thickness="3" color="000000" style="solid" />
+		<line x1="364" y1="184" x2="367" y2="243" thickness="3" color="000000" style="solid" />
+		<line x1="368" y1="215" x2="433" y2="214" thickness="3" color="000000" style="solid" />
+		<label x="424.95" y="337" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Connective tissue]]></label>
+		<label x="140" y="157" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Taste bud]]></label>
+		<label x="426.95" y="52" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Stratified squamous]]></label>
+	</set>
+	<main_image url="images/taste02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="473.95" y1="277" x2="367" y2="296" thickness="2" color="000000" style="solid" />
+		<line x1="474.95" y1="280" x2="387" y2="342" thickness="2" color="000000" style="solid" />
+		<line x1="166" y1="302" x2="326" y2="321" thickness="2" color="000000" style="solid" />
+		<line x1="165" y1="304" x2="324" y2="365.95" thickness="2" color="000000" style="solid" />
+		<label x="343" y="171" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="407" y="422.95" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Lumen]]></label>
+		<label x="413.95" y="254" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Nuclei of squamous cells]]></label>
+		<label x="60" y="279" color="000000" size="14" bgcolor="FFFFFF" bgalpha="100"><![CDATA[Cytoplasm of squamous cells]]></label>
+	</set>
+	<main_image url="images/jejunum,-EPON,-50X,-blood-v.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="490.9" y1="213" x2="446" y2="281" thickness="2" color="000000" style="solid" />
+		<line x1="494.9" y1="210" x2="553.9" y2="256" thickness="2" color="000000" style="solid" />
+		<line x1="495.9" y1="205" x2="563.85" y2="179" thickness="2" color="000000" style="solid" />
+		<line x1="181.95" y1="162" x2="164.95" y2="86" thickness="2" color="000000" style="solid" />
+		<line x1="180.95" y1="167" x2="126.95" y2="128" thickness="2" color="000000" style="solid" />
+		<line x1="180.95" y1="172" x2="137.95" y2="241" thickness="2" color="000000" style="solid" />
+		<label x="182" y="158" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[Red blood cells]]></label>
+		<label x="384" y="194" color="000000" size="14" bgcolor="FFFFFF" bgalpha="0"><![CDATA[White blood cells]]></label>
+	</set>
+	<main_image url="images/blood02.100.100.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>

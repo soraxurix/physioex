@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay>
+	<set>
+		<line x1="189" y1="284" x2="135" y2="231" thickness="2" color="000000" style="solid" />
+		<line x1="190" y1="286" x2="126" y2="280" thickness="2" color="000000" style="solid" />
+		<line x1="189" y1="286" x2="142" y2="354" thickness="2" color="000000" style="solid" />
+		<line x1="398" y1="294" x2="370" y2="336" thickness="2" color="000000" style="solid" />
+		<line x1="399" y1="295" x2="400" y2="351" thickness="2" color="000000" style="solid" />
+		<label x="200" y="273" color="000000" size="14" bgcolor="FFFFFF" bgalpha="68"><![CDATA[Sensory neuron cell bodies in dorsal root ganglion]]></label>
+	</set>
+	<main_image url="images/drgan01.40.40.jpg" scale="100" />
+	<main_label color="000000" align="center" valign="top" size="12" bgcolor="FFFFFF" bgalpha="0" />
+</overlay>
